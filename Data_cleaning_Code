@@ -2,8 +2,8 @@ import pandas as pd
 import xlrd
 import os
 
-dataset_1 = os.path.join("D:\Projects\SSA Country Profiles\Urban_Population.csv")
-dataset_2 = os.path.join("D:\Projects\SSA Country Profiles\Raw_Data_Region.csv")
+dataset_1 = os.path.join("file directory")
+dataset_2 = os.path.join("file directory")
 
 df_1=pd.read_csv(dataset_1,index_col="Country Name")
 
@@ -52,4 +52,4 @@ df_complete = df[['Country Name','Country Code','Region','IncomeGroup','1960','1
 '2019', '2020', '2021',]]
 df_complete.head(20)
 
-df_complete.to_csv('D:\Repositories\Subsaharan_Africa_Country_Profiles\Agriculture_dataset.csv',index=False)
+df_complete.to_csv('file directory',index=False)
