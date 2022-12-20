@@ -1,6 +1,6 @@
 # Subsaharan_Africa_Country_Profiles
 
-Contributor : Francis Mangala
+Contributor : Francis Mangala 
 
 Software : Tableau
 
