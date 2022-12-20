@@ -1,0 +1,55 @@
+import pandas as pd 
+import xlrd
+import os
+
+dataset_1 = os.path.join("D:\Projects\SSA Country Profiles\Urban_Population.csv")
+dataset_2 = os.path.join("D:\Projects\SSA Country Profiles\Raw_Data_Region.csv")
+
+df_1=pd.read_csv(dataset_1,index_col="Country Name")
+
+df_1.drop(["Africa Eastern and Southern","Africa Western and Central","Arab World","Central Europe and the Baltics",
+"Caribbean small states","East Asia & Pacific (excluding high income)","Early-demographic dividend","East Asia & Pacific","Europe & Central Asia (excluding high income)",
+"Europe & Central Asia","Euro area","European Union","Fragile and conflict affected situations","High income","Heavily indebted poor countries (HIPC)",
+"IBRD only","IDA & IBRD total","IDA total","IDA blend","IDA only","Not classified","Latin America & Caribbean (excluding high income)",
+"Latin America & Caribbean","Least developed countries: UN classification","Low income","Lower middle income","Low & middle income","Late-demographic dividend",
+"Middle East & North Africa","Middle income","Middle East & North Africa (excluding high income)","North America","OECD members","Other small states","Pre-demographic dividend",
+"Pacific island small states","Post-demographic dividend","Sub-Saharan Africa (excluding high income)","Sub-Saharan Africa","Small states","East Asia & Pacific (IDA & IBRD countries)",
+"Europe & Central Asia (IDA & IBRD countries)","Latin America & the Caribbean (IDA & IBRD countries)",
+"Middle East & North Africa (IDA & IBRD countries)","South Asia (IDA & IBRD)","Sub-Saharan Africa (IDA & IBRD countries)","Upper middle income",
+"World"],inplace=True)
+
+df_1.rename(index={'Bahamas, The': 'Bahamas', 'Congo, Dem. Rep.' : 'Democratic Republic of Congo','Congo, Rep.':'Republic of Congo',
+'Egypt, Arab Rep.':'Egypt','Micronesia, Fed. Sts.':'Micronesia','Gambia, The':'Gambia','Hong Kong SAR, China':'Hong Kong',
+'Iran, Islamic Rep.':'Iran','Kyrgyz Republic':'Kyrgyzstan','Korea, Rep.':'South Korea','Lao PDR':'Laos','Macao SAR, China':'Macao',
+'St. Martin (French part)':'Saint Martin','Korea, Dem. People*':'North Korea','Russian Federation':'Russia','Sint Maarten (Dutch part)':'Sint Maarten',
+'Syrian Arab Republic':'Syria','Turkiye':'Turkey','Venezuela, RB':'Venezuela','Virgin Islands (U.S.)':'Virgin Islands',
+'Yemen, Rep.':'Yemen'},inplace=True)
+
+df_1.drop(['Indicator Name','Indicator Code'],axis=1,inplace=True)
+df_1
+
+df_1_complete = df_1.reset_index(drop=False)
+df_1_complete.head(50)
+
+region_df=pd.read_csv(dataset_2)
+
+region_df.drop(['SpecialNotes','TableName'],axis=1,inplace=True)
+
+region_clean = region_df.dropna()
+
+region_complete = region_clean.astype(str)
+region_complete
+
+df_merge=pd.merge(df_1_complete,region_complete,how="inner",on=["Country Code","Country Code"])
+df_merge.head(20)
+
+df= df_merge[df_merge["Region"] == 'Sub-Saharan Africa']
+
+df_complete = df[['Country Name','Country Code','Region','IncomeGroup','1960','1961', '1962', '1963', '1964', '1965', '1966', '1967', '1968', '1969', '1970',
+'1971','1972', '1973', '1974', '1975', '1976', '1977', '1978', '1979', '1980', '1981', '1982', '1983', '1984', '1985', '1986',
+'1987', '1988',  '1989', '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002',
+'2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018',
+'2019', '2020', '2021',]]
+df_complete.head(20)
+
+df_complete.to_csv('D:\Repositories\Subsaharan_Africa_Country_Profiles\Agriculture_dataset.csv',index=False)
