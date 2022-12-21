@@ -1,32 +1,34 @@
 # Subsaharan_Africa_Country_Profiles
 
-Contributor : Francis Mangala 
+### Project Details
 
-Software : Tableau
+**Contributor** : Francis Mangala 
 
-Data : World Bank Data https://data.worldbank.org/
+**Software** : Tableau
 
-Date : 1960 - 2022
+**Data** : World Bank Data https://data.worldbank.org/
 
-##### To clean up your datasets, please check my repository : world-bank-data-cleanup
+**Date** : 1960 - 2022
 
-#### Description :
+**To clean up your datasets, please check my repository : world-bank-data-cleanup**
+
+### Description :
 
 This interactive tableau dashboard was created to visualize key indicators such as Population , Health, Trade , GDP, Labor, Education, Agriculture of Subsaharan Africa countries.
 
-#### Dataset Used :
+### Dataset Used :
 
-Population : Population(Female), Population (Male),International Migrant Stock (Total), Urban Population , Rural Population
+**Population** : *Population(Female), Population (Male),International Migrant Stock (Total), Urban Population , Rural Population*
 
-Health : Life Expenctancy at birth, total ( years)
+**Health** : *Life Expenctancy at birth, total ( years)*
 
-Trade : Import (Current $US), Export (Current $US)
+**Trade** : *Import (Current $US), Export (Current $US)*
 
-GDP : GDP (Current $US)
+**GDP** : *GDP (Current $US)*
 
-Labor : Labor Force (Total)
+**Labor** : *Labor Force (Total)*
 
-Education : Literacy rate, adult total (% of people ages 15 and above)
+**Education** : *Literacy rate, adult total (% of people ages 15 and above)*
 
-Agriculture : Arable land (% of land area), Agriculture, Forestry, and Fishing, value added (% GDP)
+**Agriculture** : *Arable land (% of land area), Agriculture, Forestry, and Fishing, value added (% GDP)*
 
