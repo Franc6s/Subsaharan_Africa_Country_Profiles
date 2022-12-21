@@ -1,6 +1,7 @@
 # Subsaharan_Africa_Country_Profiles
 
 ### Project Details
+___
 
 **Contributor** : Francis Mangala 
 
@@ -10,14 +11,14 @@
 
 **Date** : 1960 - 2022
 
-**To clean up your datasets, please check my repository : world-bank-data-cleanup**
+**_To clean up your datasets, please check my repository : world-bank-data-cleanup_**
 
 ### Description :
-
+___
 This interactive tableau dashboard was created to visualize key indicators such as Population , Health, Trade , GDP, Labor, Education, Agriculture of Subsaharan Africa countries.
 
 ### Dataset Used :
-
+___
 **Population** : *Population(Female), Population (Male),International Migrant Stock (Total), Urban Population , Rural Population*
 
 **Health** : *Life Expenctancy at birth, total ( years)*
