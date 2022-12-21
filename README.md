@@ -8,7 +8,7 @@ Data : World Bank Data https://data.worldbank.org/
 
 Date : 1960 - 2022
 
-##### To clean up your datasets, please check my repository world-bank-data-cleanup
+##### To clean up your datasets, please check my repository : world-bank-data-cleanup
 
 #### Description :
 
@@ -16,7 +16,7 @@ This interactive tableau dashboard was created to visualize key indicators such 
 
 #### Dataset Used :
 
-Population : Population,Female ; Population, Male ; Internation Migrant Stock, total; Urban Population , Rural Population
+Population : Population,Female ; Population, Male ; International Migrant Stock, total; Urban Population , Rural Population
 
 Health : Life Expenctancy at birth, total ( years)
 
