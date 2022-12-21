@@ -1,4 +1,4 @@
-# Subsaharan_Africa_Country_Profiles
+# Subsaharan Africa Country Profiles
 
 ### Project Details
 ___
