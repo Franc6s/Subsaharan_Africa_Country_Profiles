@@ -16,7 +16,7 @@ This interactive tableau dashboard was created to visualize key indicators such 
 
 #### Dataset Used :
 
-Population : Population,Female ; Population, Male ; International Migrant Stock, total; Urban Population , Rural Population
+Population : Population(Female), Population (Male),International Migrant Stock (Total), Urban Population , Rural Population
 
 Health : Life Expenctancy at birth, total ( years)
 
