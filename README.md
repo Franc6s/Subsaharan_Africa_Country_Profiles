@@ -19,17 +19,17 @@ This interactive tableau dashboard was created to visualize key indicators such 
 
 ### Dataset Used :
 ___
-**Population** : *Population(Female), Population (Male),International Migrant Stock (Total), Urban Population , Rural Population*
+**Population** : Population *(Female)*, Population *(Male)*,International Migrant Stock *(Total)*, Urban Population , Rural Population
 
-**Health** : *Life Expenctancy at birth, total ( years)*
+**Health** : Life Expenctancy at birth, total *( years)*
 
-**Trade** : *Import (Current $US), Export (Current $US)*
+**Trade** : Import *(Current $US)*, Export *(Current $US)*
 
-**GDP** : *GDP (Current $US)*
+**GDP** : GDP *(Current $US)*
 
-**Labor** : *Labor Force (Total)*
+**Labor** : Labor Force *(Total)*
 
-**Education** : *Literacy rate, adult total (% of people ages 15 and above)*
+**Education** : Literacy rate, adult total *(% of people ages 15 and above)*
 
-**Agriculture** : *Arable land (% of land area), Agriculture, Forestry, and Fishing, value added (% GDP)*
+**Agriculture** : Arable land *(% of land area)*, Agriculture, Forestry, and Fishing, value added *(% GDP)*
 
