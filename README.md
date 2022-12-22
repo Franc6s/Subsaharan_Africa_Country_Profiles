@@ -15,7 +15,7 @@ ___
 
 ### Description :
 ___
-This interactive tableau dashboard was created to visualize key indicators such as Population , Health, Trade , GDP, Labor, Education, Agriculture of Subsaharan Africa countries.
+This interactive tableau dashboard was created to visualize key indicators such as Population , Health, Trade , GDP, Labor, Education, Agriculture of Subsaharan Africa countries. The country of Djibouti is not in the dataset.
 
 ### Dataset Used :
 ___
@@ -33,3 +33,27 @@ ___
 
 **Agriculture** : Arable land *(% of land area)*, Agriculture, Forestry, and Fishing, value added *(% GDP)*
 
+### Metrics :
+___
+
+**Agriculture** : 
+* % Arable Land compared to the total land area for each year
+  * % Change over the years
+* Value added to GDP over the years
+  * % Change over the years
+
+**Labor**:
+* Labor force trend 1960 - 2021
+* Labor force vs Literacy Rate (Correlation)
+* Labor force vs GDP (Correlation)
+
+**Education**:
+* Literacy Rate vs GDP
+* Literacy Rate vs Life Expectancy (Correlation)
+
+**Population Analysis**:
+* % Female population  
+* % Male population 
+* % International Migrant Stock
+* % Urban population  
+* % Rural population   
