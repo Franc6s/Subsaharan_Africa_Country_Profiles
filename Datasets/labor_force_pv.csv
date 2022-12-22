@@ -1,0 +1,2977 @@
+Country Name,Country Code,IncomeGroup,Year,value
+Angola,AGO,Lower middle income,1960,
+Burundi,BDI,Low income,1960,
+Benin,BEN,Lower middle income,1960,
+Burkina Faso,BFA,Low income,1960,
+Botswana,BWA,Upper middle income,1960,
+Central African Republic,CAF,Low income,1960,
+Cote d'Ivoire,CIV,Lower middle income,1960,
+Cameroon,CMR,Lower middle income,1960,
+Democratic Republic of Congo,COD,Low income,1960,
+Republic of Congo,COG,Lower middle income,1960,
+Comoros,COM,Lower middle income,1960,
+Cabo Verde,CPV,Lower middle income,1960,
+Eritrea,ERI,Low income,1960,
+Ethiopia,ETH,Low income,1960,
+Gabon,GAB,Upper middle income,1960,
+Ghana,GHA,Lower middle income,1960,
+Guinea,GIN,Low income,1960,
+Gambia,GMB,Low income,1960,
+Guinea-Bissau,GNB,Low income,1960,
+Equatorial Guinea,GNQ,Upper middle income,1960,
+Kenya,KEN,Lower middle income,1960,
+Liberia,LBR,Low income,1960,
+Lesotho,LSO,Lower middle income,1960,
+Madagascar,MDG,Low income,1960,
+Mali,MLI,Low income,1960,
+Mozambique,MOZ,Low income,1960,
+Mauritania,MRT,Lower middle income,1960,
+Mauritius,MUS,Upper middle income,1960,
+Malawi,MWI,Low income,1960,
+Namibia,NAM,Upper middle income,1960,
+Niger,NER,Low income,1960,
+Nigeria,NGA,Lower middle income,1960,
+Rwanda,RWA,Low income,1960,
+Sudan,SDN,Low income,1960,
+Senegal,SEN,Lower middle income,1960,
+Sierra Leone,SLE,Low income,1960,
+Somalia,SOM,Low income,1960,
+South Sudan,SSD,Low income,1960,
+Sao Tome and Principe,STP,Lower middle income,1960,
+Eswatini,SWZ,Lower middle income,1960,
+Seychelles,SYC,High income,1960,
+Chad,TCD,Low income,1960,
+Togo,TGO,Low income,1960,
+Tanzania,TZA,Lower middle income,1960,
+Uganda,UGA,Low income,1960,
+South Africa,ZAF,Upper middle income,1960,
+Zambia,ZMB,Low income,1960,
+Zimbabwe,ZWE,Lower middle income,1960,
+Angola,AGO,Lower middle income,1961,
+Burundi,BDI,Low income,1961,
+Benin,BEN,Lower middle income,1961,
+Burkina Faso,BFA,Low income,1961,
+Botswana,BWA,Upper middle income,1961,
+Central African Republic,CAF,Low income,1961,
+Cote d'Ivoire,CIV,Lower middle income,1961,
+Cameroon,CMR,Lower middle income,1961,
+Democratic Republic of Congo,COD,Low income,1961,
+Republic of Congo,COG,Lower middle income,1961,
+Comoros,COM,Lower middle income,1961,
+Cabo Verde,CPV,Lower middle income,1961,
+Eritrea,ERI,Low income,1961,
+Ethiopia,ETH,Low income,1961,
+Gabon,GAB,Upper middle income,1961,
+Ghana,GHA,Lower middle income,1961,
+Guinea,GIN,Low income,1961,
+Gambia,GMB,Low income,1961,
+Guinea-Bissau,GNB,Low income,1961,
+Equatorial Guinea,GNQ,Upper middle income,1961,
+Kenya,KEN,Lower middle income,1961,
+Liberia,LBR,Low income,1961,
+Lesotho,LSO,Lower middle income,1961,
+Madagascar,MDG,Low income,1961,
+Mali,MLI,Low income,1961,
+Mozambique,MOZ,Low income,1961,
+Mauritania,MRT,Lower middle income,1961,
+Mauritius,MUS,Upper middle income,1961,
+Malawi,MWI,Low income,1961,
+Namibia,NAM,Upper middle income,1961,
+Niger,NER,Low income,1961,
+Nigeria,NGA,Lower middle income,1961,
+Rwanda,RWA,Low income,1961,
+Sudan,SDN,Low income,1961,
+Senegal,SEN,Lower middle income,1961,
+Sierra Leone,SLE,Low income,1961,
+Somalia,SOM,Low income,1961,
+South Sudan,SSD,Low income,1961,
+Sao Tome and Principe,STP,Lower middle income,1961,
+Eswatini,SWZ,Lower middle income,1961,
+Seychelles,SYC,High income,1961,
+Chad,TCD,Low income,1961,
+Togo,TGO,Low income,1961,
+Tanzania,TZA,Lower middle income,1961,
+Uganda,UGA,Low income,1961,
+South Africa,ZAF,Upper middle income,1961,
+Zambia,ZMB,Low income,1961,
+Zimbabwe,ZWE,Lower middle income,1961,
+Angola,AGO,Lower middle income,1962,
+Burundi,BDI,Low income,1962,
+Benin,BEN,Lower middle income,1962,
+Burkina Faso,BFA,Low income,1962,
+Botswana,BWA,Upper middle income,1962,
+Central African Republic,CAF,Low income,1962,
+Cote d'Ivoire,CIV,Lower middle income,1962,
+Cameroon,CMR,Lower middle income,1962,
+Democratic Republic of Congo,COD,Low income,1962,
+Republic of Congo,COG,Lower middle income,1962,
+Comoros,COM,Lower middle income,1962,
+Cabo Verde,CPV,Lower middle income,1962,
+Eritrea,ERI,Low income,1962,
+Ethiopia,ETH,Low income,1962,
+Gabon,GAB,Upper middle income,1962,
+Ghana,GHA,Lower middle income,1962,
+Guinea,GIN,Low income,1962,
+Gambia,GMB,Low income,1962,
+Guinea-Bissau,GNB,Low income,1962,
+Equatorial Guinea,GNQ,Upper middle income,1962,
+Kenya,KEN,Lower middle income,1962,
+Liberia,LBR,Low income,1962,
+Lesotho,LSO,Lower middle income,1962,
+Madagascar,MDG,Low income,1962,
+Mali,MLI,Low income,1962,
+Mozambique,MOZ,Low income,1962,
+Mauritania,MRT,Lower middle income,1962,
+Mauritius,MUS,Upper middle income,1962,
+Malawi,MWI,Low income,1962,
+Namibia,NAM,Upper middle income,1962,
+Niger,NER,Low income,1962,
+Nigeria,NGA,Lower middle income,1962,
+Rwanda,RWA,Low income,1962,
+Sudan,SDN,Low income,1962,
+Senegal,SEN,Lower middle income,1962,
+Sierra Leone,SLE,Low income,1962,
+Somalia,SOM,Low income,1962,
+South Sudan,SSD,Low income,1962,
+Sao Tome and Principe,STP,Lower middle income,1962,
+Eswatini,SWZ,Lower middle income,1962,
+Seychelles,SYC,High income,1962,
+Chad,TCD,Low income,1962,
+Togo,TGO,Low income,1962,
+Tanzania,TZA,Lower middle income,1962,
+Uganda,UGA,Low income,1962,
+South Africa,ZAF,Upper middle income,1962,
+Zambia,ZMB,Low income,1962,
+Zimbabwe,ZWE,Lower middle income,1962,
+Angola,AGO,Lower middle income,1963,
+Burundi,BDI,Low income,1963,
+Benin,BEN,Lower middle income,1963,
+Burkina Faso,BFA,Low income,1963,
+Botswana,BWA,Upper middle income,1963,
+Central African Republic,CAF,Low income,1963,
+Cote d'Ivoire,CIV,Lower middle income,1963,
+Cameroon,CMR,Lower middle income,1963,
+Democratic Republic of Congo,COD,Low income,1963,
+Republic of Congo,COG,Lower middle income,1963,
+Comoros,COM,Lower middle income,1963,
+Cabo Verde,CPV,Lower middle income,1963,
+Eritrea,ERI,Low income,1963,
+Ethiopia,ETH,Low income,1963,
+Gabon,GAB,Upper middle income,1963,
+Ghana,GHA,Lower middle income,1963,
+Guinea,GIN,Low income,1963,
+Gambia,GMB,Low income,1963,
+Guinea-Bissau,GNB,Low income,1963,
+Equatorial Guinea,GNQ,Upper middle income,1963,
+Kenya,KEN,Lower middle income,1963,
+Liberia,LBR,Low income,1963,
+Lesotho,LSO,Lower middle income,1963,
+Madagascar,MDG,Low income,1963,
+Mali,MLI,Low income,1963,
+Mozambique,MOZ,Low income,1963,
+Mauritania,MRT,Lower middle income,1963,
+Mauritius,MUS,Upper middle income,1963,
+Malawi,MWI,Low income,1963,
+Namibia,NAM,Upper middle income,1963,
+Niger,NER,Low income,1963,
+Nigeria,NGA,Lower middle income,1963,
+Rwanda,RWA,Low income,1963,
+Sudan,SDN,Low income,1963,
+Senegal,SEN,Lower middle income,1963,
+Sierra Leone,SLE,Low income,1963,
+Somalia,SOM,Low income,1963,
+South Sudan,SSD,Low income,1963,
+Sao Tome and Principe,STP,Lower middle income,1963,
+Eswatini,SWZ,Lower middle income,1963,
+Seychelles,SYC,High income,1963,
+Chad,TCD,Low income,1963,
+Togo,TGO,Low income,1963,
+Tanzania,TZA,Lower middle income,1963,
+Uganda,UGA,Low income,1963,
+South Africa,ZAF,Upper middle income,1963,
+Zambia,ZMB,Low income,1963,
+Zimbabwe,ZWE,Lower middle income,1963,
+Angola,AGO,Lower middle income,1964,
+Burundi,BDI,Low income,1964,
+Benin,BEN,Lower middle income,1964,
+Burkina Faso,BFA,Low income,1964,
+Botswana,BWA,Upper middle income,1964,
+Central African Republic,CAF,Low income,1964,
+Cote d'Ivoire,CIV,Lower middle income,1964,
+Cameroon,CMR,Lower middle income,1964,
+Democratic Republic of Congo,COD,Low income,1964,
+Republic of Congo,COG,Lower middle income,1964,
+Comoros,COM,Lower middle income,1964,
+Cabo Verde,CPV,Lower middle income,1964,
+Eritrea,ERI,Low income,1964,
+Ethiopia,ETH,Low income,1964,
+Gabon,GAB,Upper middle income,1964,
+Ghana,GHA,Lower middle income,1964,
+Guinea,GIN,Low income,1964,
+Gambia,GMB,Low income,1964,
+Guinea-Bissau,GNB,Low income,1964,
+Equatorial Guinea,GNQ,Upper middle income,1964,
+Kenya,KEN,Lower middle income,1964,
+Liberia,LBR,Low income,1964,
+Lesotho,LSO,Lower middle income,1964,
+Madagascar,MDG,Low income,1964,
+Mali,MLI,Low income,1964,
+Mozambique,MOZ,Low income,1964,
+Mauritania,MRT,Lower middle income,1964,
+Mauritius,MUS,Upper middle income,1964,
+Malawi,MWI,Low income,1964,
+Namibia,NAM,Upper middle income,1964,
+Niger,NER,Low income,1964,
+Nigeria,NGA,Lower middle income,1964,
+Rwanda,RWA,Low income,1964,
+Sudan,SDN,Low income,1964,
+Senegal,SEN,Lower middle income,1964,
+Sierra Leone,SLE,Low income,1964,
+Somalia,SOM,Low income,1964,
+South Sudan,SSD,Low income,1964,
+Sao Tome and Principe,STP,Lower middle income,1964,
+Eswatini,SWZ,Lower middle income,1964,
+Seychelles,SYC,High income,1964,
+Chad,TCD,Low income,1964,
+Togo,TGO,Low income,1964,
+Tanzania,TZA,Lower middle income,1964,
+Uganda,UGA,Low income,1964,
+South Africa,ZAF,Upper middle income,1964,
+Zambia,ZMB,Low income,1964,
+Zimbabwe,ZWE,Lower middle income,1964,
+Angola,AGO,Lower middle income,1965,
+Burundi,BDI,Low income,1965,
+Benin,BEN,Lower middle income,1965,
+Burkina Faso,BFA,Low income,1965,
+Botswana,BWA,Upper middle income,1965,
+Central African Republic,CAF,Low income,1965,
+Cote d'Ivoire,CIV,Lower middle income,1965,
+Cameroon,CMR,Lower middle income,1965,
+Democratic Republic of Congo,COD,Low income,1965,
+Republic of Congo,COG,Lower middle income,1965,
+Comoros,COM,Lower middle income,1965,
+Cabo Verde,CPV,Lower middle income,1965,
+Eritrea,ERI,Low income,1965,
+Ethiopia,ETH,Low income,1965,
+Gabon,GAB,Upper middle income,1965,
+Ghana,GHA,Lower middle income,1965,
+Guinea,GIN,Low income,1965,
+Gambia,GMB,Low income,1965,
+Guinea-Bissau,GNB,Low income,1965,
+Equatorial Guinea,GNQ,Upper middle income,1965,
+Kenya,KEN,Lower middle income,1965,
+Liberia,LBR,Low income,1965,
+Lesotho,LSO,Lower middle income,1965,
+Madagascar,MDG,Low income,1965,
+Mali,MLI,Low income,1965,
+Mozambique,MOZ,Low income,1965,
+Mauritania,MRT,Lower middle income,1965,
+Mauritius,MUS,Upper middle income,1965,
+Malawi,MWI,Low income,1965,
+Namibia,NAM,Upper middle income,1965,
+Niger,NER,Low income,1965,
+Nigeria,NGA,Lower middle income,1965,
+Rwanda,RWA,Low income,1965,
+Sudan,SDN,Low income,1965,
+Senegal,SEN,Lower middle income,1965,
+Sierra Leone,SLE,Low income,1965,
+Somalia,SOM,Low income,1965,
+South Sudan,SSD,Low income,1965,
+Sao Tome and Principe,STP,Lower middle income,1965,
+Eswatini,SWZ,Lower middle income,1965,
+Seychelles,SYC,High income,1965,
+Chad,TCD,Low income,1965,
+Togo,TGO,Low income,1965,
+Tanzania,TZA,Lower middle income,1965,
+Uganda,UGA,Low income,1965,
+South Africa,ZAF,Upper middle income,1965,
+Zambia,ZMB,Low income,1965,
+Zimbabwe,ZWE,Lower middle income,1965,
+Angola,AGO,Lower middle income,1966,
+Burundi,BDI,Low income,1966,
+Benin,BEN,Lower middle income,1966,
+Burkina Faso,BFA,Low income,1966,
+Botswana,BWA,Upper middle income,1966,
+Central African Republic,CAF,Low income,1966,
+Cote d'Ivoire,CIV,Lower middle income,1966,
+Cameroon,CMR,Lower middle income,1966,
+Democratic Republic of Congo,COD,Low income,1966,
+Republic of Congo,COG,Lower middle income,1966,
+Comoros,COM,Lower middle income,1966,
+Cabo Verde,CPV,Lower middle income,1966,
+Eritrea,ERI,Low income,1966,
+Ethiopia,ETH,Low income,1966,
+Gabon,GAB,Upper middle income,1966,
+Ghana,GHA,Lower middle income,1966,
+Guinea,GIN,Low income,1966,
+Gambia,GMB,Low income,1966,
+Guinea-Bissau,GNB,Low income,1966,
+Equatorial Guinea,GNQ,Upper middle income,1966,
+Kenya,KEN,Lower middle income,1966,
+Liberia,LBR,Low income,1966,
+Lesotho,LSO,Lower middle income,1966,
+Madagascar,MDG,Low income,1966,
+Mali,MLI,Low income,1966,
+Mozambique,MOZ,Low income,1966,
+Mauritania,MRT,Lower middle income,1966,
+Mauritius,MUS,Upper middle income,1966,
+Malawi,MWI,Low income,1966,
+Namibia,NAM,Upper middle income,1966,
+Niger,NER,Low income,1966,
+Nigeria,NGA,Lower middle income,1966,
+Rwanda,RWA,Low income,1966,
+Sudan,SDN,Low income,1966,
+Senegal,SEN,Lower middle income,1966,
+Sierra Leone,SLE,Low income,1966,
+Somalia,SOM,Low income,1966,
+South Sudan,SSD,Low income,1966,
+Sao Tome and Principe,STP,Lower middle income,1966,
+Eswatini,SWZ,Lower middle income,1966,
+Seychelles,SYC,High income,1966,
+Chad,TCD,Low income,1966,
+Togo,TGO,Low income,1966,
+Tanzania,TZA,Lower middle income,1966,
+Uganda,UGA,Low income,1966,
+South Africa,ZAF,Upper middle income,1966,
+Zambia,ZMB,Low income,1966,
+Zimbabwe,ZWE,Lower middle income,1966,
+Angola,AGO,Lower middle income,1967,
+Burundi,BDI,Low income,1967,
+Benin,BEN,Lower middle income,1967,
+Burkina Faso,BFA,Low income,1967,
+Botswana,BWA,Upper middle income,1967,
+Central African Republic,CAF,Low income,1967,
+Cote d'Ivoire,CIV,Lower middle income,1967,
+Cameroon,CMR,Lower middle income,1967,
+Democratic Republic of Congo,COD,Low income,1967,
+Republic of Congo,COG,Lower middle income,1967,
+Comoros,COM,Lower middle income,1967,
+Cabo Verde,CPV,Lower middle income,1967,
+Eritrea,ERI,Low income,1967,
+Ethiopia,ETH,Low income,1967,
+Gabon,GAB,Upper middle income,1967,
+Ghana,GHA,Lower middle income,1967,
+Guinea,GIN,Low income,1967,
+Gambia,GMB,Low income,1967,
+Guinea-Bissau,GNB,Low income,1967,
+Equatorial Guinea,GNQ,Upper middle income,1967,
+Kenya,KEN,Lower middle income,1967,
+Liberia,LBR,Low income,1967,
+Lesotho,LSO,Lower middle income,1967,
+Madagascar,MDG,Low income,1967,
+Mali,MLI,Low income,1967,
+Mozambique,MOZ,Low income,1967,
+Mauritania,MRT,Lower middle income,1967,
+Mauritius,MUS,Upper middle income,1967,
+Malawi,MWI,Low income,1967,
+Namibia,NAM,Upper middle income,1967,
+Niger,NER,Low income,1967,
+Nigeria,NGA,Lower middle income,1967,
+Rwanda,RWA,Low income,1967,
+Sudan,SDN,Low income,1967,
+Senegal,SEN,Lower middle income,1967,
+Sierra Leone,SLE,Low income,1967,
+Somalia,SOM,Low income,1967,
+South Sudan,SSD,Low income,1967,
+Sao Tome and Principe,STP,Lower middle income,1967,
+Eswatini,SWZ,Lower middle income,1967,
+Seychelles,SYC,High income,1967,
+Chad,TCD,Low income,1967,
+Togo,TGO,Low income,1967,
+Tanzania,TZA,Lower middle income,1967,
+Uganda,UGA,Low income,1967,
+South Africa,ZAF,Upper middle income,1967,
+Zambia,ZMB,Low income,1967,
+Zimbabwe,ZWE,Lower middle income,1967,
+Angola,AGO,Lower middle income,1968,
+Burundi,BDI,Low income,1968,
+Benin,BEN,Lower middle income,1968,
+Burkina Faso,BFA,Low income,1968,
+Botswana,BWA,Upper middle income,1968,
+Central African Republic,CAF,Low income,1968,
+Cote d'Ivoire,CIV,Lower middle income,1968,
+Cameroon,CMR,Lower middle income,1968,
+Democratic Republic of Congo,COD,Low income,1968,
+Republic of Congo,COG,Lower middle income,1968,
+Comoros,COM,Lower middle income,1968,
+Cabo Verde,CPV,Lower middle income,1968,
+Eritrea,ERI,Low income,1968,
+Ethiopia,ETH,Low income,1968,
+Gabon,GAB,Upper middle income,1968,
+Ghana,GHA,Lower middle income,1968,
+Guinea,GIN,Low income,1968,
+Gambia,GMB,Low income,1968,
+Guinea-Bissau,GNB,Low income,1968,
+Equatorial Guinea,GNQ,Upper middle income,1968,
+Kenya,KEN,Lower middle income,1968,
+Liberia,LBR,Low income,1968,
+Lesotho,LSO,Lower middle income,1968,
+Madagascar,MDG,Low income,1968,
+Mali,MLI,Low income,1968,
+Mozambique,MOZ,Low income,1968,
+Mauritania,MRT,Lower middle income,1968,
+Mauritius,MUS,Upper middle income,1968,
+Malawi,MWI,Low income,1968,
+Namibia,NAM,Upper middle income,1968,
+Niger,NER,Low income,1968,
+Nigeria,NGA,Lower middle income,1968,
+Rwanda,RWA,Low income,1968,
+Sudan,SDN,Low income,1968,
+Senegal,SEN,Lower middle income,1968,
+Sierra Leone,SLE,Low income,1968,
+Somalia,SOM,Low income,1968,
+South Sudan,SSD,Low income,1968,
+Sao Tome and Principe,STP,Lower middle income,1968,
+Eswatini,SWZ,Lower middle income,1968,
+Seychelles,SYC,High income,1968,
+Chad,TCD,Low income,1968,
+Togo,TGO,Low income,1968,
+Tanzania,TZA,Lower middle income,1968,
+Uganda,UGA,Low income,1968,
+South Africa,ZAF,Upper middle income,1968,
+Zambia,ZMB,Low income,1968,
+Zimbabwe,ZWE,Lower middle income,1968,
+Angola,AGO,Lower middle income,1969,
+Burundi,BDI,Low income,1969,
+Benin,BEN,Lower middle income,1969,
+Burkina Faso,BFA,Low income,1969,
+Botswana,BWA,Upper middle income,1969,
+Central African Republic,CAF,Low income,1969,
+Cote d'Ivoire,CIV,Lower middle income,1969,
+Cameroon,CMR,Lower middle income,1969,
+Democratic Republic of Congo,COD,Low income,1969,
+Republic of Congo,COG,Lower middle income,1969,
+Comoros,COM,Lower middle income,1969,
+Cabo Verde,CPV,Lower middle income,1969,
+Eritrea,ERI,Low income,1969,
+Ethiopia,ETH,Low income,1969,
+Gabon,GAB,Upper middle income,1969,
+Ghana,GHA,Lower middle income,1969,
+Guinea,GIN,Low income,1969,
+Gambia,GMB,Low income,1969,
+Guinea-Bissau,GNB,Low income,1969,
+Equatorial Guinea,GNQ,Upper middle income,1969,
+Kenya,KEN,Lower middle income,1969,
+Liberia,LBR,Low income,1969,
+Lesotho,LSO,Lower middle income,1969,
+Madagascar,MDG,Low income,1969,
+Mali,MLI,Low income,1969,
+Mozambique,MOZ,Low income,1969,
+Mauritania,MRT,Lower middle income,1969,
+Mauritius,MUS,Upper middle income,1969,
+Malawi,MWI,Low income,1969,
+Namibia,NAM,Upper middle income,1969,
+Niger,NER,Low income,1969,
+Nigeria,NGA,Lower middle income,1969,
+Rwanda,RWA,Low income,1969,
+Sudan,SDN,Low income,1969,
+Senegal,SEN,Lower middle income,1969,
+Sierra Leone,SLE,Low income,1969,
+Somalia,SOM,Low income,1969,
+South Sudan,SSD,Low income,1969,
+Sao Tome and Principe,STP,Lower middle income,1969,
+Eswatini,SWZ,Lower middle income,1969,
+Seychelles,SYC,High income,1969,
+Chad,TCD,Low income,1969,
+Togo,TGO,Low income,1969,
+Tanzania,TZA,Lower middle income,1969,
+Uganda,UGA,Low income,1969,
+South Africa,ZAF,Upper middle income,1969,
+Zambia,ZMB,Low income,1969,
+Zimbabwe,ZWE,Lower middle income,1969,
+Angola,AGO,Lower middle income,1970,
+Burundi,BDI,Low income,1970,
+Benin,BEN,Lower middle income,1970,
+Burkina Faso,BFA,Low income,1970,
+Botswana,BWA,Upper middle income,1970,
+Central African Republic,CAF,Low income,1970,
+Cote d'Ivoire,CIV,Lower middle income,1970,
+Cameroon,CMR,Lower middle income,1970,
+Democratic Republic of Congo,COD,Low income,1970,
+Republic of Congo,COG,Lower middle income,1970,
+Comoros,COM,Lower middle income,1970,
+Cabo Verde,CPV,Lower middle income,1970,
+Eritrea,ERI,Low income,1970,
+Ethiopia,ETH,Low income,1970,
+Gabon,GAB,Upper middle income,1970,
+Ghana,GHA,Lower middle income,1970,
+Guinea,GIN,Low income,1970,
+Gambia,GMB,Low income,1970,
+Guinea-Bissau,GNB,Low income,1970,
+Equatorial Guinea,GNQ,Upper middle income,1970,
+Kenya,KEN,Lower middle income,1970,
+Liberia,LBR,Low income,1970,
+Lesotho,LSO,Lower middle income,1970,
+Madagascar,MDG,Low income,1970,
+Mali,MLI,Low income,1970,
+Mozambique,MOZ,Low income,1970,
+Mauritania,MRT,Lower middle income,1970,
+Mauritius,MUS,Upper middle income,1970,
+Malawi,MWI,Low income,1970,
+Namibia,NAM,Upper middle income,1970,
+Niger,NER,Low income,1970,
+Nigeria,NGA,Lower middle income,1970,
+Rwanda,RWA,Low income,1970,
+Sudan,SDN,Low income,1970,
+Senegal,SEN,Lower middle income,1970,
+Sierra Leone,SLE,Low income,1970,
+Somalia,SOM,Low income,1970,
+South Sudan,SSD,Low income,1970,
+Sao Tome and Principe,STP,Lower middle income,1970,
+Eswatini,SWZ,Lower middle income,1970,
+Seychelles,SYC,High income,1970,
+Chad,TCD,Low income,1970,
+Togo,TGO,Low income,1970,
+Tanzania,TZA,Lower middle income,1970,
+Uganda,UGA,Low income,1970,
+South Africa,ZAF,Upper middle income,1970,
+Zambia,ZMB,Low income,1970,
+Zimbabwe,ZWE,Lower middle income,1970,
+Angola,AGO,Lower middle income,1971,
+Burundi,BDI,Low income,1971,
+Benin,BEN,Lower middle income,1971,
+Burkina Faso,BFA,Low income,1971,
+Botswana,BWA,Upper middle income,1971,
+Central African Republic,CAF,Low income,1971,
+Cote d'Ivoire,CIV,Lower middle income,1971,
+Cameroon,CMR,Lower middle income,1971,
+Democratic Republic of Congo,COD,Low income,1971,
+Republic of Congo,COG,Lower middle income,1971,
+Comoros,COM,Lower middle income,1971,
+Cabo Verde,CPV,Lower middle income,1971,
+Eritrea,ERI,Low income,1971,
+Ethiopia,ETH,Low income,1971,
+Gabon,GAB,Upper middle income,1971,
+Ghana,GHA,Lower middle income,1971,
+Guinea,GIN,Low income,1971,
+Gambia,GMB,Low income,1971,
+Guinea-Bissau,GNB,Low income,1971,
+Equatorial Guinea,GNQ,Upper middle income,1971,
+Kenya,KEN,Lower middle income,1971,
+Liberia,LBR,Low income,1971,
+Lesotho,LSO,Lower middle income,1971,
+Madagascar,MDG,Low income,1971,
+Mali,MLI,Low income,1971,
+Mozambique,MOZ,Low income,1971,
+Mauritania,MRT,Lower middle income,1971,
+Mauritius,MUS,Upper middle income,1971,
+Malawi,MWI,Low income,1971,
+Namibia,NAM,Upper middle income,1971,
+Niger,NER,Low income,1971,
+Nigeria,NGA,Lower middle income,1971,
+Rwanda,RWA,Low income,1971,
+Sudan,SDN,Low income,1971,
+Senegal,SEN,Lower middle income,1971,
+Sierra Leone,SLE,Low income,1971,
+Somalia,SOM,Low income,1971,
+South Sudan,SSD,Low income,1971,
+Sao Tome and Principe,STP,Lower middle income,1971,
+Eswatini,SWZ,Lower middle income,1971,
+Seychelles,SYC,High income,1971,
+Chad,TCD,Low income,1971,
+Togo,TGO,Low income,1971,
+Tanzania,TZA,Lower middle income,1971,
+Uganda,UGA,Low income,1971,
+South Africa,ZAF,Upper middle income,1971,
+Zambia,ZMB,Low income,1971,
+Zimbabwe,ZWE,Lower middle income,1971,
+Angola,AGO,Lower middle income,1972,
+Burundi,BDI,Low income,1972,
+Benin,BEN,Lower middle income,1972,
+Burkina Faso,BFA,Low income,1972,
+Botswana,BWA,Upper middle income,1972,
+Central African Republic,CAF,Low income,1972,
+Cote d'Ivoire,CIV,Lower middle income,1972,
+Cameroon,CMR,Lower middle income,1972,
+Democratic Republic of Congo,COD,Low income,1972,
+Republic of Congo,COG,Lower middle income,1972,
+Comoros,COM,Lower middle income,1972,
+Cabo Verde,CPV,Lower middle income,1972,
+Eritrea,ERI,Low income,1972,
+Ethiopia,ETH,Low income,1972,
+Gabon,GAB,Upper middle income,1972,
+Ghana,GHA,Lower middle income,1972,
+Guinea,GIN,Low income,1972,
+Gambia,GMB,Low income,1972,
+Guinea-Bissau,GNB,Low income,1972,
+Equatorial Guinea,GNQ,Upper middle income,1972,
+Kenya,KEN,Lower middle income,1972,
+Liberia,LBR,Low income,1972,
+Lesotho,LSO,Lower middle income,1972,
+Madagascar,MDG,Low income,1972,
+Mali,MLI,Low income,1972,
+Mozambique,MOZ,Low income,1972,
+Mauritania,MRT,Lower middle income,1972,
+Mauritius,MUS,Upper middle income,1972,
+Malawi,MWI,Low income,1972,
+Namibia,NAM,Upper middle income,1972,
+Niger,NER,Low income,1972,
+Nigeria,NGA,Lower middle income,1972,
+Rwanda,RWA,Low income,1972,
+Sudan,SDN,Low income,1972,
+Senegal,SEN,Lower middle income,1972,
+Sierra Leone,SLE,Low income,1972,
+Somalia,SOM,Low income,1972,
+South Sudan,SSD,Low income,1972,
+Sao Tome and Principe,STP,Lower middle income,1972,
+Eswatini,SWZ,Lower middle income,1972,
+Seychelles,SYC,High income,1972,
+Chad,TCD,Low income,1972,
+Togo,TGO,Low income,1972,
+Tanzania,TZA,Lower middle income,1972,
+Uganda,UGA,Low income,1972,
+South Africa,ZAF,Upper middle income,1972,
+Zambia,ZMB,Low income,1972,
+Zimbabwe,ZWE,Lower middle income,1972,
+Angola,AGO,Lower middle income,1973,
+Burundi,BDI,Low income,1973,
+Benin,BEN,Lower middle income,1973,
+Burkina Faso,BFA,Low income,1973,
+Botswana,BWA,Upper middle income,1973,
+Central African Republic,CAF,Low income,1973,
+Cote d'Ivoire,CIV,Lower middle income,1973,
+Cameroon,CMR,Lower middle income,1973,
+Democratic Republic of Congo,COD,Low income,1973,
+Republic of Congo,COG,Lower middle income,1973,
+Comoros,COM,Lower middle income,1973,
+Cabo Verde,CPV,Lower middle income,1973,
+Eritrea,ERI,Low income,1973,
+Ethiopia,ETH,Low income,1973,
+Gabon,GAB,Upper middle income,1973,
+Ghana,GHA,Lower middle income,1973,
+Guinea,GIN,Low income,1973,
+Gambia,GMB,Low income,1973,
+Guinea-Bissau,GNB,Low income,1973,
+Equatorial Guinea,GNQ,Upper middle income,1973,
+Kenya,KEN,Lower middle income,1973,
+Liberia,LBR,Low income,1973,
+Lesotho,LSO,Lower middle income,1973,
+Madagascar,MDG,Low income,1973,
+Mali,MLI,Low income,1973,
+Mozambique,MOZ,Low income,1973,
+Mauritania,MRT,Lower middle income,1973,
+Mauritius,MUS,Upper middle income,1973,
+Malawi,MWI,Low income,1973,
+Namibia,NAM,Upper middle income,1973,
+Niger,NER,Low income,1973,
+Nigeria,NGA,Lower middle income,1973,
+Rwanda,RWA,Low income,1973,
+Sudan,SDN,Low income,1973,
+Senegal,SEN,Lower middle income,1973,
+Sierra Leone,SLE,Low income,1973,
+Somalia,SOM,Low income,1973,
+South Sudan,SSD,Low income,1973,
+Sao Tome and Principe,STP,Lower middle income,1973,
+Eswatini,SWZ,Lower middle income,1973,
+Seychelles,SYC,High income,1973,
+Chad,TCD,Low income,1973,
+Togo,TGO,Low income,1973,
+Tanzania,TZA,Lower middle income,1973,
+Uganda,UGA,Low income,1973,
+South Africa,ZAF,Upper middle income,1973,
+Zambia,ZMB,Low income,1973,
+Zimbabwe,ZWE,Lower middle income,1973,
+Angola,AGO,Lower middle income,1974,
+Burundi,BDI,Low income,1974,
+Benin,BEN,Lower middle income,1974,
+Burkina Faso,BFA,Low income,1974,
+Botswana,BWA,Upper middle income,1974,
+Central African Republic,CAF,Low income,1974,
+Cote d'Ivoire,CIV,Lower middle income,1974,
+Cameroon,CMR,Lower middle income,1974,
+Democratic Republic of Congo,COD,Low income,1974,
+Republic of Congo,COG,Lower middle income,1974,
+Comoros,COM,Lower middle income,1974,
+Cabo Verde,CPV,Lower middle income,1974,
+Eritrea,ERI,Low income,1974,
+Ethiopia,ETH,Low income,1974,
+Gabon,GAB,Upper middle income,1974,
+Ghana,GHA,Lower middle income,1974,
+Guinea,GIN,Low income,1974,
+Gambia,GMB,Low income,1974,
+Guinea-Bissau,GNB,Low income,1974,
+Equatorial Guinea,GNQ,Upper middle income,1974,
+Kenya,KEN,Lower middle income,1974,
+Liberia,LBR,Low income,1974,
+Lesotho,LSO,Lower middle income,1974,
+Madagascar,MDG,Low income,1974,
+Mali,MLI,Low income,1974,
+Mozambique,MOZ,Low income,1974,
+Mauritania,MRT,Lower middle income,1974,
+Mauritius,MUS,Upper middle income,1974,
+Malawi,MWI,Low income,1974,
+Namibia,NAM,Upper middle income,1974,
+Niger,NER,Low income,1974,
+Nigeria,NGA,Lower middle income,1974,
+Rwanda,RWA,Low income,1974,
+Sudan,SDN,Low income,1974,
+Senegal,SEN,Lower middle income,1974,
+Sierra Leone,SLE,Low income,1974,
+Somalia,SOM,Low income,1974,
+South Sudan,SSD,Low income,1974,
+Sao Tome and Principe,STP,Lower middle income,1974,
+Eswatini,SWZ,Lower middle income,1974,
+Seychelles,SYC,High income,1974,
+Chad,TCD,Low income,1974,
+Togo,TGO,Low income,1974,
+Tanzania,TZA,Lower middle income,1974,
+Uganda,UGA,Low income,1974,
+South Africa,ZAF,Upper middle income,1974,
+Zambia,ZMB,Low income,1974,
+Zimbabwe,ZWE,Lower middle income,1974,
+Angola,AGO,Lower middle income,1975,
+Burundi,BDI,Low income,1975,
+Benin,BEN,Lower middle income,1975,
+Burkina Faso,BFA,Low income,1975,
+Botswana,BWA,Upper middle income,1975,
+Central African Republic,CAF,Low income,1975,
+Cote d'Ivoire,CIV,Lower middle income,1975,
+Cameroon,CMR,Lower middle income,1975,
+Democratic Republic of Congo,COD,Low income,1975,
+Republic of Congo,COG,Lower middle income,1975,
+Comoros,COM,Lower middle income,1975,
+Cabo Verde,CPV,Lower middle income,1975,
+Eritrea,ERI,Low income,1975,
+Ethiopia,ETH,Low income,1975,
+Gabon,GAB,Upper middle income,1975,
+Ghana,GHA,Lower middle income,1975,
+Guinea,GIN,Low income,1975,
+Gambia,GMB,Low income,1975,
+Guinea-Bissau,GNB,Low income,1975,
+Equatorial Guinea,GNQ,Upper middle income,1975,
+Kenya,KEN,Lower middle income,1975,
+Liberia,LBR,Low income,1975,
+Lesotho,LSO,Lower middle income,1975,
+Madagascar,MDG,Low income,1975,
+Mali,MLI,Low income,1975,
+Mozambique,MOZ,Low income,1975,
+Mauritania,MRT,Lower middle income,1975,
+Mauritius,MUS,Upper middle income,1975,
+Malawi,MWI,Low income,1975,
+Namibia,NAM,Upper middle income,1975,
+Niger,NER,Low income,1975,
+Nigeria,NGA,Lower middle income,1975,
+Rwanda,RWA,Low income,1975,
+Sudan,SDN,Low income,1975,
+Senegal,SEN,Lower middle income,1975,
+Sierra Leone,SLE,Low income,1975,
+Somalia,SOM,Low income,1975,
+South Sudan,SSD,Low income,1975,
+Sao Tome and Principe,STP,Lower middle income,1975,
+Eswatini,SWZ,Lower middle income,1975,
+Seychelles,SYC,High income,1975,
+Chad,TCD,Low income,1975,
+Togo,TGO,Low income,1975,
+Tanzania,TZA,Lower middle income,1975,
+Uganda,UGA,Low income,1975,
+South Africa,ZAF,Upper middle income,1975,
+Zambia,ZMB,Low income,1975,
+Zimbabwe,ZWE,Lower middle income,1975,
+Angola,AGO,Lower middle income,1976,
+Burundi,BDI,Low income,1976,
+Benin,BEN,Lower middle income,1976,
+Burkina Faso,BFA,Low income,1976,
+Botswana,BWA,Upper middle income,1976,
+Central African Republic,CAF,Low income,1976,
+Cote d'Ivoire,CIV,Lower middle income,1976,
+Cameroon,CMR,Lower middle income,1976,
+Democratic Republic of Congo,COD,Low income,1976,
+Republic of Congo,COG,Lower middle income,1976,
+Comoros,COM,Lower middle income,1976,
+Cabo Verde,CPV,Lower middle income,1976,
+Eritrea,ERI,Low income,1976,
+Ethiopia,ETH,Low income,1976,
+Gabon,GAB,Upper middle income,1976,
+Ghana,GHA,Lower middle income,1976,
+Guinea,GIN,Low income,1976,
+Gambia,GMB,Low income,1976,
+Guinea-Bissau,GNB,Low income,1976,
+Equatorial Guinea,GNQ,Upper middle income,1976,
+Kenya,KEN,Lower middle income,1976,
+Liberia,LBR,Low income,1976,
+Lesotho,LSO,Lower middle income,1976,
+Madagascar,MDG,Low income,1976,
+Mali,MLI,Low income,1976,
+Mozambique,MOZ,Low income,1976,
+Mauritania,MRT,Lower middle income,1976,
+Mauritius,MUS,Upper middle income,1976,
+Malawi,MWI,Low income,1976,
+Namibia,NAM,Upper middle income,1976,
+Niger,NER,Low income,1976,
+Nigeria,NGA,Lower middle income,1976,
+Rwanda,RWA,Low income,1976,
+Sudan,SDN,Low income,1976,
+Senegal,SEN,Lower middle income,1976,
+Sierra Leone,SLE,Low income,1976,
+Somalia,SOM,Low income,1976,
+South Sudan,SSD,Low income,1976,
+Sao Tome and Principe,STP,Lower middle income,1976,
+Eswatini,SWZ,Lower middle income,1976,
+Seychelles,SYC,High income,1976,
+Chad,TCD,Low income,1976,
+Togo,TGO,Low income,1976,
+Tanzania,TZA,Lower middle income,1976,
+Uganda,UGA,Low income,1976,
+South Africa,ZAF,Upper middle income,1976,
+Zambia,ZMB,Low income,1976,
+Zimbabwe,ZWE,Lower middle income,1976,
+Angola,AGO,Lower middle income,1977,
+Burundi,BDI,Low income,1977,
+Benin,BEN,Lower middle income,1977,
+Burkina Faso,BFA,Low income,1977,
+Botswana,BWA,Upper middle income,1977,
+Central African Republic,CAF,Low income,1977,
+Cote d'Ivoire,CIV,Lower middle income,1977,
+Cameroon,CMR,Lower middle income,1977,
+Democratic Republic of Congo,COD,Low income,1977,
+Republic of Congo,COG,Lower middle income,1977,
+Comoros,COM,Lower middle income,1977,
+Cabo Verde,CPV,Lower middle income,1977,
+Eritrea,ERI,Low income,1977,
+Ethiopia,ETH,Low income,1977,
+Gabon,GAB,Upper middle income,1977,
+Ghana,GHA,Lower middle income,1977,
+Guinea,GIN,Low income,1977,
+Gambia,GMB,Low income,1977,
+Guinea-Bissau,GNB,Low income,1977,
+Equatorial Guinea,GNQ,Upper middle income,1977,
+Kenya,KEN,Lower middle income,1977,
+Liberia,LBR,Low income,1977,
+Lesotho,LSO,Lower middle income,1977,
+Madagascar,MDG,Low income,1977,
+Mali,MLI,Low income,1977,
+Mozambique,MOZ,Low income,1977,
+Mauritania,MRT,Lower middle income,1977,
+Mauritius,MUS,Upper middle income,1977,
+Malawi,MWI,Low income,1977,
+Namibia,NAM,Upper middle income,1977,
+Niger,NER,Low income,1977,
+Nigeria,NGA,Lower middle income,1977,
+Rwanda,RWA,Low income,1977,
+Sudan,SDN,Low income,1977,
+Senegal,SEN,Lower middle income,1977,
+Sierra Leone,SLE,Low income,1977,
+Somalia,SOM,Low income,1977,
+South Sudan,SSD,Low income,1977,
+Sao Tome and Principe,STP,Lower middle income,1977,
+Eswatini,SWZ,Lower middle income,1977,
+Seychelles,SYC,High income,1977,
+Chad,TCD,Low income,1977,
+Togo,TGO,Low income,1977,
+Tanzania,TZA,Lower middle income,1977,
+Uganda,UGA,Low income,1977,
+South Africa,ZAF,Upper middle income,1977,
+Zambia,ZMB,Low income,1977,
+Zimbabwe,ZWE,Lower middle income,1977,
+Angola,AGO,Lower middle income,1978,
+Burundi,BDI,Low income,1978,
+Benin,BEN,Lower middle income,1978,
+Burkina Faso,BFA,Low income,1978,
+Botswana,BWA,Upper middle income,1978,
+Central African Republic,CAF,Low income,1978,
+Cote d'Ivoire,CIV,Lower middle income,1978,
+Cameroon,CMR,Lower middle income,1978,
+Democratic Republic of Congo,COD,Low income,1978,
+Republic of Congo,COG,Lower middle income,1978,
+Comoros,COM,Lower middle income,1978,
+Cabo Verde,CPV,Lower middle income,1978,
+Eritrea,ERI,Low income,1978,
+Ethiopia,ETH,Low income,1978,
+Gabon,GAB,Upper middle income,1978,
+Ghana,GHA,Lower middle income,1978,
+Guinea,GIN,Low income,1978,
+Gambia,GMB,Low income,1978,
+Guinea-Bissau,GNB,Low income,1978,
+Equatorial Guinea,GNQ,Upper middle income,1978,
+Kenya,KEN,Lower middle income,1978,
+Liberia,LBR,Low income,1978,
+Lesotho,LSO,Lower middle income,1978,
+Madagascar,MDG,Low income,1978,
+Mali,MLI,Low income,1978,
+Mozambique,MOZ,Low income,1978,
+Mauritania,MRT,Lower middle income,1978,
+Mauritius,MUS,Upper middle income,1978,
+Malawi,MWI,Low income,1978,
+Namibia,NAM,Upper middle income,1978,
+Niger,NER,Low income,1978,
+Nigeria,NGA,Lower middle income,1978,
+Rwanda,RWA,Low income,1978,
+Sudan,SDN,Low income,1978,
+Senegal,SEN,Lower middle income,1978,
+Sierra Leone,SLE,Low income,1978,
+Somalia,SOM,Low income,1978,
+South Sudan,SSD,Low income,1978,
+Sao Tome and Principe,STP,Lower middle income,1978,
+Eswatini,SWZ,Lower middle income,1978,
+Seychelles,SYC,High income,1978,
+Chad,TCD,Low income,1978,
+Togo,TGO,Low income,1978,
+Tanzania,TZA,Lower middle income,1978,
+Uganda,UGA,Low income,1978,
+South Africa,ZAF,Upper middle income,1978,
+Zambia,ZMB,Low income,1978,
+Zimbabwe,ZWE,Lower middle income,1978,
+Angola,AGO,Lower middle income,1979,
+Burundi,BDI,Low income,1979,
+Benin,BEN,Lower middle income,1979,
+Burkina Faso,BFA,Low income,1979,
+Botswana,BWA,Upper middle income,1979,
+Central African Republic,CAF,Low income,1979,
+Cote d'Ivoire,CIV,Lower middle income,1979,
+Cameroon,CMR,Lower middle income,1979,
+Democratic Republic of Congo,COD,Low income,1979,
+Republic of Congo,COG,Lower middle income,1979,
+Comoros,COM,Lower middle income,1979,
+Cabo Verde,CPV,Lower middle income,1979,
+Eritrea,ERI,Low income,1979,
+Ethiopia,ETH,Low income,1979,
+Gabon,GAB,Upper middle income,1979,
+Ghana,GHA,Lower middle income,1979,
+Guinea,GIN,Low income,1979,
+Gambia,GMB,Low income,1979,
+Guinea-Bissau,GNB,Low income,1979,
+Equatorial Guinea,GNQ,Upper middle income,1979,
+Kenya,KEN,Lower middle income,1979,
+Liberia,LBR,Low income,1979,
+Lesotho,LSO,Lower middle income,1979,
+Madagascar,MDG,Low income,1979,
+Mali,MLI,Low income,1979,
+Mozambique,MOZ,Low income,1979,
+Mauritania,MRT,Lower middle income,1979,
+Mauritius,MUS,Upper middle income,1979,
+Malawi,MWI,Low income,1979,
+Namibia,NAM,Upper middle income,1979,
+Niger,NER,Low income,1979,
+Nigeria,NGA,Lower middle income,1979,
+Rwanda,RWA,Low income,1979,
+Sudan,SDN,Low income,1979,
+Senegal,SEN,Lower middle income,1979,
+Sierra Leone,SLE,Low income,1979,
+Somalia,SOM,Low income,1979,
+South Sudan,SSD,Low income,1979,
+Sao Tome and Principe,STP,Lower middle income,1979,
+Eswatini,SWZ,Lower middle income,1979,
+Seychelles,SYC,High income,1979,
+Chad,TCD,Low income,1979,
+Togo,TGO,Low income,1979,
+Tanzania,TZA,Lower middle income,1979,
+Uganda,UGA,Low income,1979,
+South Africa,ZAF,Upper middle income,1979,
+Zambia,ZMB,Low income,1979,
+Zimbabwe,ZWE,Lower middle income,1979,
+Angola,AGO,Lower middle income,1980,
+Burundi,BDI,Low income,1980,
+Benin,BEN,Lower middle income,1980,
+Burkina Faso,BFA,Low income,1980,
+Botswana,BWA,Upper middle income,1980,
+Central African Republic,CAF,Low income,1980,
+Cote d'Ivoire,CIV,Lower middle income,1980,
+Cameroon,CMR,Lower middle income,1980,
+Democratic Republic of Congo,COD,Low income,1980,
+Republic of Congo,COG,Lower middle income,1980,
+Comoros,COM,Lower middle income,1980,
+Cabo Verde,CPV,Lower middle income,1980,
+Eritrea,ERI,Low income,1980,
+Ethiopia,ETH,Low income,1980,
+Gabon,GAB,Upper middle income,1980,
+Ghana,GHA,Lower middle income,1980,
+Guinea,GIN,Low income,1980,
+Gambia,GMB,Low income,1980,
+Guinea-Bissau,GNB,Low income,1980,
+Equatorial Guinea,GNQ,Upper middle income,1980,
+Kenya,KEN,Lower middle income,1980,
+Liberia,LBR,Low income,1980,
+Lesotho,LSO,Lower middle income,1980,
+Madagascar,MDG,Low income,1980,
+Mali,MLI,Low income,1980,
+Mozambique,MOZ,Low income,1980,
+Mauritania,MRT,Lower middle income,1980,
+Mauritius,MUS,Upper middle income,1980,
+Malawi,MWI,Low income,1980,
+Namibia,NAM,Upper middle income,1980,
+Niger,NER,Low income,1980,
+Nigeria,NGA,Lower middle income,1980,
+Rwanda,RWA,Low income,1980,
+Sudan,SDN,Low income,1980,
+Senegal,SEN,Lower middle income,1980,
+Sierra Leone,SLE,Low income,1980,
+Somalia,SOM,Low income,1980,
+South Sudan,SSD,Low income,1980,
+Sao Tome and Principe,STP,Lower middle income,1980,
+Eswatini,SWZ,Lower middle income,1980,
+Seychelles,SYC,High income,1980,
+Chad,TCD,Low income,1980,
+Togo,TGO,Low income,1980,
+Tanzania,TZA,Lower middle income,1980,
+Uganda,UGA,Low income,1980,
+South Africa,ZAF,Upper middle income,1980,
+Zambia,ZMB,Low income,1980,
+Zimbabwe,ZWE,Lower middle income,1980,
+Angola,AGO,Lower middle income,1981,
+Burundi,BDI,Low income,1981,
+Benin,BEN,Lower middle income,1981,
+Burkina Faso,BFA,Low income,1981,
+Botswana,BWA,Upper middle income,1981,
+Central African Republic,CAF,Low income,1981,
+Cote d'Ivoire,CIV,Lower middle income,1981,
+Cameroon,CMR,Lower middle income,1981,
+Democratic Republic of Congo,COD,Low income,1981,
+Republic of Congo,COG,Lower middle income,1981,
+Comoros,COM,Lower middle income,1981,
+Cabo Verde,CPV,Lower middle income,1981,
+Eritrea,ERI,Low income,1981,
+Ethiopia,ETH,Low income,1981,
+Gabon,GAB,Upper middle income,1981,
+Ghana,GHA,Lower middle income,1981,
+Guinea,GIN,Low income,1981,
+Gambia,GMB,Low income,1981,
+Guinea-Bissau,GNB,Low income,1981,
+Equatorial Guinea,GNQ,Upper middle income,1981,
+Kenya,KEN,Lower middle income,1981,
+Liberia,LBR,Low income,1981,
+Lesotho,LSO,Lower middle income,1981,
+Madagascar,MDG,Low income,1981,
+Mali,MLI,Low income,1981,
+Mozambique,MOZ,Low income,1981,
+Mauritania,MRT,Lower middle income,1981,
+Mauritius,MUS,Upper middle income,1981,
+Malawi,MWI,Low income,1981,
+Namibia,NAM,Upper middle income,1981,
+Niger,NER,Low income,1981,
+Nigeria,NGA,Lower middle income,1981,
+Rwanda,RWA,Low income,1981,
+Sudan,SDN,Low income,1981,
+Senegal,SEN,Lower middle income,1981,
+Sierra Leone,SLE,Low income,1981,
+Somalia,SOM,Low income,1981,
+South Sudan,SSD,Low income,1981,
+Sao Tome and Principe,STP,Lower middle income,1981,
+Eswatini,SWZ,Lower middle income,1981,
+Seychelles,SYC,High income,1981,
+Chad,TCD,Low income,1981,
+Togo,TGO,Low income,1981,
+Tanzania,TZA,Lower middle income,1981,
+Uganda,UGA,Low income,1981,
+South Africa,ZAF,Upper middle income,1981,
+Zambia,ZMB,Low income,1981,
+Zimbabwe,ZWE,Lower middle income,1981,
+Angola,AGO,Lower middle income,1982,
+Burundi,BDI,Low income,1982,
+Benin,BEN,Lower middle income,1982,
+Burkina Faso,BFA,Low income,1982,
+Botswana,BWA,Upper middle income,1982,
+Central African Republic,CAF,Low income,1982,
+Cote d'Ivoire,CIV,Lower middle income,1982,
+Cameroon,CMR,Lower middle income,1982,
+Democratic Republic of Congo,COD,Low income,1982,
+Republic of Congo,COG,Lower middle income,1982,
+Comoros,COM,Lower middle income,1982,
+Cabo Verde,CPV,Lower middle income,1982,
+Eritrea,ERI,Low income,1982,
+Ethiopia,ETH,Low income,1982,
+Gabon,GAB,Upper middle income,1982,
+Ghana,GHA,Lower middle income,1982,
+Guinea,GIN,Low income,1982,
+Gambia,GMB,Low income,1982,
+Guinea-Bissau,GNB,Low income,1982,
+Equatorial Guinea,GNQ,Upper middle income,1982,
+Kenya,KEN,Lower middle income,1982,
+Liberia,LBR,Low income,1982,
+Lesotho,LSO,Lower middle income,1982,
+Madagascar,MDG,Low income,1982,
+Mali,MLI,Low income,1982,
+Mozambique,MOZ,Low income,1982,
+Mauritania,MRT,Lower middle income,1982,
+Mauritius,MUS,Upper middle income,1982,
+Malawi,MWI,Low income,1982,
+Namibia,NAM,Upper middle income,1982,
+Niger,NER,Low income,1982,
+Nigeria,NGA,Lower middle income,1982,
+Rwanda,RWA,Low income,1982,
+Sudan,SDN,Low income,1982,
+Senegal,SEN,Lower middle income,1982,
+Sierra Leone,SLE,Low income,1982,
+Somalia,SOM,Low income,1982,
+South Sudan,SSD,Low income,1982,
+Sao Tome and Principe,STP,Lower middle income,1982,
+Eswatini,SWZ,Lower middle income,1982,
+Seychelles,SYC,High income,1982,
+Chad,TCD,Low income,1982,
+Togo,TGO,Low income,1982,
+Tanzania,TZA,Lower middle income,1982,
+Uganda,UGA,Low income,1982,
+South Africa,ZAF,Upper middle income,1982,
+Zambia,ZMB,Low income,1982,
+Zimbabwe,ZWE,Lower middle income,1982,
+Angola,AGO,Lower middle income,1983,
+Burundi,BDI,Low income,1983,
+Benin,BEN,Lower middle income,1983,
+Burkina Faso,BFA,Low income,1983,
+Botswana,BWA,Upper middle income,1983,
+Central African Republic,CAF,Low income,1983,
+Cote d'Ivoire,CIV,Lower middle income,1983,
+Cameroon,CMR,Lower middle income,1983,
+Democratic Republic of Congo,COD,Low income,1983,
+Republic of Congo,COG,Lower middle income,1983,
+Comoros,COM,Lower middle income,1983,
+Cabo Verde,CPV,Lower middle income,1983,
+Eritrea,ERI,Low income,1983,
+Ethiopia,ETH,Low income,1983,
+Gabon,GAB,Upper middle income,1983,
+Ghana,GHA,Lower middle income,1983,
+Guinea,GIN,Low income,1983,
+Gambia,GMB,Low income,1983,
+Guinea-Bissau,GNB,Low income,1983,
+Equatorial Guinea,GNQ,Upper middle income,1983,
+Kenya,KEN,Lower middle income,1983,
+Liberia,LBR,Low income,1983,
+Lesotho,LSO,Lower middle income,1983,
+Madagascar,MDG,Low income,1983,
+Mali,MLI,Low income,1983,
+Mozambique,MOZ,Low income,1983,
+Mauritania,MRT,Lower middle income,1983,
+Mauritius,MUS,Upper middle income,1983,
+Malawi,MWI,Low income,1983,
+Namibia,NAM,Upper middle income,1983,
+Niger,NER,Low income,1983,
+Nigeria,NGA,Lower middle income,1983,
+Rwanda,RWA,Low income,1983,
+Sudan,SDN,Low income,1983,
+Senegal,SEN,Lower middle income,1983,
+Sierra Leone,SLE,Low income,1983,
+Somalia,SOM,Low income,1983,
+South Sudan,SSD,Low income,1983,
+Sao Tome and Principe,STP,Lower middle income,1983,
+Eswatini,SWZ,Lower middle income,1983,
+Seychelles,SYC,High income,1983,
+Chad,TCD,Low income,1983,
+Togo,TGO,Low income,1983,
+Tanzania,TZA,Lower middle income,1983,
+Uganda,UGA,Low income,1983,
+South Africa,ZAF,Upper middle income,1983,
+Zambia,ZMB,Low income,1983,
+Zimbabwe,ZWE,Lower middle income,1983,
+Angola,AGO,Lower middle income,1984,
+Burundi,BDI,Low income,1984,
+Benin,BEN,Lower middle income,1984,
+Burkina Faso,BFA,Low income,1984,
+Botswana,BWA,Upper middle income,1984,
+Central African Republic,CAF,Low income,1984,
+Cote d'Ivoire,CIV,Lower middle income,1984,
+Cameroon,CMR,Lower middle income,1984,
+Democratic Republic of Congo,COD,Low income,1984,
+Republic of Congo,COG,Lower middle income,1984,
+Comoros,COM,Lower middle income,1984,
+Cabo Verde,CPV,Lower middle income,1984,
+Eritrea,ERI,Low income,1984,
+Ethiopia,ETH,Low income,1984,
+Gabon,GAB,Upper middle income,1984,
+Ghana,GHA,Lower middle income,1984,
+Guinea,GIN,Low income,1984,
+Gambia,GMB,Low income,1984,
+Guinea-Bissau,GNB,Low income,1984,
+Equatorial Guinea,GNQ,Upper middle income,1984,
+Kenya,KEN,Lower middle income,1984,
+Liberia,LBR,Low income,1984,
+Lesotho,LSO,Lower middle income,1984,
+Madagascar,MDG,Low income,1984,
+Mali,MLI,Low income,1984,
+Mozambique,MOZ,Low income,1984,
+Mauritania,MRT,Lower middle income,1984,
+Mauritius,MUS,Upper middle income,1984,
+Malawi,MWI,Low income,1984,
+Namibia,NAM,Upper middle income,1984,
+Niger,NER,Low income,1984,
+Nigeria,NGA,Lower middle income,1984,
+Rwanda,RWA,Low income,1984,
+Sudan,SDN,Low income,1984,
+Senegal,SEN,Lower middle income,1984,
+Sierra Leone,SLE,Low income,1984,
+Somalia,SOM,Low income,1984,
+South Sudan,SSD,Low income,1984,
+Sao Tome and Principe,STP,Lower middle income,1984,
+Eswatini,SWZ,Lower middle income,1984,
+Seychelles,SYC,High income,1984,
+Chad,TCD,Low income,1984,
+Togo,TGO,Low income,1984,
+Tanzania,TZA,Lower middle income,1984,
+Uganda,UGA,Low income,1984,
+South Africa,ZAF,Upper middle income,1984,
+Zambia,ZMB,Low income,1984,
+Zimbabwe,ZWE,Lower middle income,1984,
+Angola,AGO,Lower middle income,1985,
+Burundi,BDI,Low income,1985,
+Benin,BEN,Lower middle income,1985,
+Burkina Faso,BFA,Low income,1985,
+Botswana,BWA,Upper middle income,1985,
+Central African Republic,CAF,Low income,1985,
+Cote d'Ivoire,CIV,Lower middle income,1985,
+Cameroon,CMR,Lower middle income,1985,
+Democratic Republic of Congo,COD,Low income,1985,
+Republic of Congo,COG,Lower middle income,1985,
+Comoros,COM,Lower middle income,1985,
+Cabo Verde,CPV,Lower middle income,1985,
+Eritrea,ERI,Low income,1985,
+Ethiopia,ETH,Low income,1985,
+Gabon,GAB,Upper middle income,1985,
+Ghana,GHA,Lower middle income,1985,
+Guinea,GIN,Low income,1985,
+Gambia,GMB,Low income,1985,
+Guinea-Bissau,GNB,Low income,1985,
+Equatorial Guinea,GNQ,Upper middle income,1985,
+Kenya,KEN,Lower middle income,1985,
+Liberia,LBR,Low income,1985,
+Lesotho,LSO,Lower middle income,1985,
+Madagascar,MDG,Low income,1985,
+Mali,MLI,Low income,1985,
+Mozambique,MOZ,Low income,1985,
+Mauritania,MRT,Lower middle income,1985,
+Mauritius,MUS,Upper middle income,1985,
+Malawi,MWI,Low income,1985,
+Namibia,NAM,Upper middle income,1985,
+Niger,NER,Low income,1985,
+Nigeria,NGA,Lower middle income,1985,
+Rwanda,RWA,Low income,1985,
+Sudan,SDN,Low income,1985,
+Senegal,SEN,Lower middle income,1985,
+Sierra Leone,SLE,Low income,1985,
+Somalia,SOM,Low income,1985,
+South Sudan,SSD,Low income,1985,
+Sao Tome and Principe,STP,Lower middle income,1985,
+Eswatini,SWZ,Lower middle income,1985,
+Seychelles,SYC,High income,1985,
+Chad,TCD,Low income,1985,
+Togo,TGO,Low income,1985,
+Tanzania,TZA,Lower middle income,1985,
+Uganda,UGA,Low income,1985,
+South Africa,ZAF,Upper middle income,1985,
+Zambia,ZMB,Low income,1985,
+Zimbabwe,ZWE,Lower middle income,1985,
+Angola,AGO,Lower middle income,1986,
+Burundi,BDI,Low income,1986,
+Benin,BEN,Lower middle income,1986,
+Burkina Faso,BFA,Low income,1986,
+Botswana,BWA,Upper middle income,1986,
+Central African Republic,CAF,Low income,1986,
+Cote d'Ivoire,CIV,Lower middle income,1986,
+Cameroon,CMR,Lower middle income,1986,
+Democratic Republic of Congo,COD,Low income,1986,
+Republic of Congo,COG,Lower middle income,1986,
+Comoros,COM,Lower middle income,1986,
+Cabo Verde,CPV,Lower middle income,1986,
+Eritrea,ERI,Low income,1986,
+Ethiopia,ETH,Low income,1986,
+Gabon,GAB,Upper middle income,1986,
+Ghana,GHA,Lower middle income,1986,
+Guinea,GIN,Low income,1986,
+Gambia,GMB,Low income,1986,
+Guinea-Bissau,GNB,Low income,1986,
+Equatorial Guinea,GNQ,Upper middle income,1986,
+Kenya,KEN,Lower middle income,1986,
+Liberia,LBR,Low income,1986,
+Lesotho,LSO,Lower middle income,1986,
+Madagascar,MDG,Low income,1986,
+Mali,MLI,Low income,1986,
+Mozambique,MOZ,Low income,1986,
+Mauritania,MRT,Lower middle income,1986,
+Mauritius,MUS,Upper middle income,1986,
+Malawi,MWI,Low income,1986,
+Namibia,NAM,Upper middle income,1986,
+Niger,NER,Low income,1986,
+Nigeria,NGA,Lower middle income,1986,
+Rwanda,RWA,Low income,1986,
+Sudan,SDN,Low income,1986,
+Senegal,SEN,Lower middle income,1986,
+Sierra Leone,SLE,Low income,1986,
+Somalia,SOM,Low income,1986,
+South Sudan,SSD,Low income,1986,
+Sao Tome and Principe,STP,Lower middle income,1986,
+Eswatini,SWZ,Lower middle income,1986,
+Seychelles,SYC,High income,1986,
+Chad,TCD,Low income,1986,
+Togo,TGO,Low income,1986,
+Tanzania,TZA,Lower middle income,1986,
+Uganda,UGA,Low income,1986,
+South Africa,ZAF,Upper middle income,1986,
+Zambia,ZMB,Low income,1986,
+Zimbabwe,ZWE,Lower middle income,1986,
+Angola,AGO,Lower middle income,1987,
+Burundi,BDI,Low income,1987,
+Benin,BEN,Lower middle income,1987,
+Burkina Faso,BFA,Low income,1987,
+Botswana,BWA,Upper middle income,1987,
+Central African Republic,CAF,Low income,1987,
+Cote d'Ivoire,CIV,Lower middle income,1987,
+Cameroon,CMR,Lower middle income,1987,
+Democratic Republic of Congo,COD,Low income,1987,
+Republic of Congo,COG,Lower middle income,1987,
+Comoros,COM,Lower middle income,1987,
+Cabo Verde,CPV,Lower middle income,1987,
+Eritrea,ERI,Low income,1987,
+Ethiopia,ETH,Low income,1987,
+Gabon,GAB,Upper middle income,1987,
+Ghana,GHA,Lower middle income,1987,
+Guinea,GIN,Low income,1987,
+Gambia,GMB,Low income,1987,
+Guinea-Bissau,GNB,Low income,1987,
+Equatorial Guinea,GNQ,Upper middle income,1987,
+Kenya,KEN,Lower middle income,1987,
+Liberia,LBR,Low income,1987,
+Lesotho,LSO,Lower middle income,1987,
+Madagascar,MDG,Low income,1987,
+Mali,MLI,Low income,1987,
+Mozambique,MOZ,Low income,1987,
+Mauritania,MRT,Lower middle income,1987,
+Mauritius,MUS,Upper middle income,1987,
+Malawi,MWI,Low income,1987,
+Namibia,NAM,Upper middle income,1987,
+Niger,NER,Low income,1987,
+Nigeria,NGA,Lower middle income,1987,
+Rwanda,RWA,Low income,1987,
+Sudan,SDN,Low income,1987,
+Senegal,SEN,Lower middle income,1987,
+Sierra Leone,SLE,Low income,1987,
+Somalia,SOM,Low income,1987,
+South Sudan,SSD,Low income,1987,
+Sao Tome and Principe,STP,Lower middle income,1987,
+Eswatini,SWZ,Lower middle income,1987,
+Seychelles,SYC,High income,1987,
+Chad,TCD,Low income,1987,
+Togo,TGO,Low income,1987,
+Tanzania,TZA,Lower middle income,1987,
+Uganda,UGA,Low income,1987,
+South Africa,ZAF,Upper middle income,1987,
+Zambia,ZMB,Low income,1987,
+Zimbabwe,ZWE,Lower middle income,1987,
+Angola,AGO,Lower middle income,1988,
+Burundi,BDI,Low income,1988,
+Benin,BEN,Lower middle income,1988,
+Burkina Faso,BFA,Low income,1988,
+Botswana,BWA,Upper middle income,1988,
+Central African Republic,CAF,Low income,1988,
+Cote d'Ivoire,CIV,Lower middle income,1988,
+Cameroon,CMR,Lower middle income,1988,
+Democratic Republic of Congo,COD,Low income,1988,
+Republic of Congo,COG,Lower middle income,1988,
+Comoros,COM,Lower middle income,1988,
+Cabo Verde,CPV,Lower middle income,1988,
+Eritrea,ERI,Low income,1988,
+Ethiopia,ETH,Low income,1988,
+Gabon,GAB,Upper middle income,1988,
+Ghana,GHA,Lower middle income,1988,
+Guinea,GIN,Low income,1988,
+Gambia,GMB,Low income,1988,
+Guinea-Bissau,GNB,Low income,1988,
+Equatorial Guinea,GNQ,Upper middle income,1988,
+Kenya,KEN,Lower middle income,1988,
+Liberia,LBR,Low income,1988,
+Lesotho,LSO,Lower middle income,1988,
+Madagascar,MDG,Low income,1988,
+Mali,MLI,Low income,1988,
+Mozambique,MOZ,Low income,1988,
+Mauritania,MRT,Lower middle income,1988,
+Mauritius,MUS,Upper middle income,1988,
+Malawi,MWI,Low income,1988,
+Namibia,NAM,Upper middle income,1988,
+Niger,NER,Low income,1988,
+Nigeria,NGA,Lower middle income,1988,
+Rwanda,RWA,Low income,1988,
+Sudan,SDN,Low income,1988,
+Senegal,SEN,Lower middle income,1988,
+Sierra Leone,SLE,Low income,1988,
+Somalia,SOM,Low income,1988,
+South Sudan,SSD,Low income,1988,
+Sao Tome and Principe,STP,Lower middle income,1988,
+Eswatini,SWZ,Lower middle income,1988,
+Seychelles,SYC,High income,1988,
+Chad,TCD,Low income,1988,
+Togo,TGO,Low income,1988,
+Tanzania,TZA,Lower middle income,1988,
+Uganda,UGA,Low income,1988,
+South Africa,ZAF,Upper middle income,1988,
+Zambia,ZMB,Low income,1988,
+Zimbabwe,ZWE,Lower middle income,1988,
+Angola,AGO,Lower middle income,1989,
+Burundi,BDI,Low income,1989,
+Benin,BEN,Lower middle income,1989,
+Burkina Faso,BFA,Low income,1989,
+Botswana,BWA,Upper middle income,1989,
+Central African Republic,CAF,Low income,1989,
+Cote d'Ivoire,CIV,Lower middle income,1989,
+Cameroon,CMR,Lower middle income,1989,
+Democratic Republic of Congo,COD,Low income,1989,
+Republic of Congo,COG,Lower middle income,1989,
+Comoros,COM,Lower middle income,1989,
+Cabo Verde,CPV,Lower middle income,1989,
+Eritrea,ERI,Low income,1989,
+Ethiopia,ETH,Low income,1989,
+Gabon,GAB,Upper middle income,1989,
+Ghana,GHA,Lower middle income,1989,
+Guinea,GIN,Low income,1989,
+Gambia,GMB,Low income,1989,
+Guinea-Bissau,GNB,Low income,1989,
+Equatorial Guinea,GNQ,Upper middle income,1989,
+Kenya,KEN,Lower middle income,1989,
+Liberia,LBR,Low income,1989,
+Lesotho,LSO,Lower middle income,1989,
+Madagascar,MDG,Low income,1989,
+Mali,MLI,Low income,1989,
+Mozambique,MOZ,Low income,1989,
+Mauritania,MRT,Lower middle income,1989,
+Mauritius,MUS,Upper middle income,1989,
+Malawi,MWI,Low income,1989,
+Namibia,NAM,Upper middle income,1989,
+Niger,NER,Low income,1989,
+Nigeria,NGA,Lower middle income,1989,
+Rwanda,RWA,Low income,1989,
+Sudan,SDN,Low income,1989,
+Senegal,SEN,Lower middle income,1989,
+Sierra Leone,SLE,Low income,1989,
+Somalia,SOM,Low income,1989,
+South Sudan,SSD,Low income,1989,
+Sao Tome and Principe,STP,Lower middle income,1989,
+Eswatini,SWZ,Lower middle income,1989,
+Seychelles,SYC,High income,1989,
+Chad,TCD,Low income,1989,
+Togo,TGO,Low income,1989,
+Tanzania,TZA,Lower middle income,1989,
+Uganda,UGA,Low income,1989,
+South Africa,ZAF,Upper middle income,1989,
+Zambia,ZMB,Low income,1989,
+Zimbabwe,ZWE,Lower middle income,1989,
+Angola,AGO,Lower middle income,1990,4806741.0
+Burundi,BDI,Low income,1990,2558769.0
+Benin,BEN,Lower middle income,1990,1947748.0
+Burkina Faso,BFA,Low income,1990,3899748.0
+Botswana,BWA,Upper middle income,1990,418801.0
+Central African Republic,CAF,Low income,1990,1130533.0
+Cote d'Ivoire,CIV,Lower middle income,1990,4289363.0
+Cameroon,CMR,Lower middle income,1990,5252929.0
+Democratic Republic of Congo,COD,Low income,1990,13740480.0
+Republic of Congo,COG,Lower middle income,1990,895459.0
+Comoros,COM,Lower middle income,1990,94101.0
+Cabo Verde,CPV,Lower middle income,1990,110687.0
+Eritrea,ERI,Low income,1990,997531.0
+Ethiopia,ETH,Low income,1990,20025169.0
+Gabon,GAB,Upper middle income,1990,276516.0
+Ghana,GHA,Lower middle income,1990,6394047.0
+Guinea,GIN,Low income,1990,2234920.0
+Gambia,GMB,Low income,1990,306246.0
+Guinea-Bissau,GNB,Low income,1990,377330.0
+Equatorial Guinea,GNQ,Upper middle income,1990,137374.0
+Kenya,KEN,Lower middle income,1990,8832294.0
+Liberia,LBR,Low income,1990,887127.0
+Lesotho,LSO,Lower middle income,1990,690662.0
+Madagascar,MDG,Low income,1990,5496530.0
+Mali,MLI,Low income,1990,3165202.0
+Mozambique,MOZ,Low income,1990,5842867.0
+Mauritania,MRT,Lower middle income,1990,570524.0
+Mauritius,MUS,Upper middle income,1990,446919.0
+Malawi,MWI,Low income,1990,4005516.0
+Namibia,NAM,Upper middle income,1990,436884.0
+Niger,NER,Low income,1990,3277843.0
+Nigeria,NGA,Lower middle income,1990,31787602.0
+Rwanda,RWA,Low income,1990,3209184.0
+Sudan,SDN,Low income,1990,5429237.0
+Senegal,SEN,Lower middle income,1990,2039255.0
+Sierra Leone,SLE,Low income,1990,1565425.0
+Somalia,SOM,Low income,1990,1349117.0
+South Sudan,SSD,Low income,1990,2273248.0
+Sao Tome and Principe,STP,Lower middle income,1990,34492.0
+Eswatini,SWZ,Lower middle income,1990,227973.0
+Seychelles,SYC,High income,1990,
+Chad,TCD,Low income,1990,2258929.0
+Togo,TGO,Low income,1990,1207802.0
+Tanzania,TZA,Lower middle income,1990,11845170.0
+Uganda,UGA,Low income,1990,6248326.0
+South Africa,ZAF,Upper middle income,1990,12953669.0
+Zambia,ZMB,Low income,1990,3377221.0
+Zimbabwe,ZWE,Lower middle income,1990,4721816.0
+Angola,AGO,Lower middle income,1991,4960706.0
+Burundi,BDI,Low income,1991,2564818.0
+Benin,BEN,Lower middle income,1991,2014551.0
+Burkina Faso,BFA,Low income,1991,3999978.0
+Botswana,BWA,Upper middle income,1991,434760.0
+Central African Republic,CAF,Low income,1991,1158951.0
+Cote d'Ivoire,CIV,Lower middle income,1991,4452334.0
+Cameroon,CMR,Lower middle income,1991,5404613.0
+Democratic Republic of Congo,COD,Low income,1991,14225481.0
+Republic of Congo,COG,Lower middle income,1991,923876.0
+Comoros,COM,Lower middle income,1991,96886.0
+Cabo Verde,CPV,Lower middle income,1991,113260.0
+Eritrea,ERI,Low income,1991,988039.0
+Ethiopia,ETH,Low income,1991,20689446.0
+Gabon,GAB,Upper middle income,1991,283708.0
+Ghana,GHA,Lower middle income,1991,6594051.0
+Guinea,GIN,Low income,1991,2288931.0
+Gambia,GMB,Low income,1991,315684.0
+Guinea-Bissau,GNB,Low income,1991,385654.0
+Equatorial Guinea,GNQ,Upper middle income,1991,141850.0
+Kenya,KEN,Lower middle income,1991,9181663.0
+Liberia,LBR,Low income,1991,874218.0
+Lesotho,LSO,Lower middle income,1991,711563.0
+Madagascar,MDG,Low income,1991,5662289.0
+Mali,MLI,Low income,1991,3230590.0
+Mozambique,MOZ,Low income,1991,6064085.0
+Mauritania,MRT,Lower middle income,1991,585648.0
+Mauritius,MUS,Upper middle income,1991,454233.0
+Malawi,MWI,Low income,1991,4076386.0
+Namibia,NAM,Upper middle income,1991,451084.0
+Niger,NER,Low income,1991,3381446.0
+Nigeria,NGA,Lower middle income,1991,32625016.0
+Rwanda,RWA,Low income,1991,3161370.0
+Sudan,SDN,Low income,1991,5691682.0
+Senegal,SEN,Lower middle income,1991,2104902.0
+Sierra Leone,SLE,Low income,1991,1572000.0
+Somalia,SOM,Low income,1991,1354339.0
+South Sudan,SSD,Low income,1991,2237931.0
+Sao Tome and Principe,STP,Lower middle income,1991,35443.0
+Eswatini,SWZ,Lower middle income,1991,235997.0
+Seychelles,SYC,High income,1991,
+Chad,TCD,Low income,1991,2323659.0
+Togo,TGO,Low income,1991,1236633.0
+Tanzania,TZA,Lower middle income,1991,12243103.0
+Uganda,UGA,Low income,1991,6433435.0
+South Africa,ZAF,Upper middle income,1991,13346100.0
+Zambia,ZMB,Low income,1991,3465325.0
+Zimbabwe,ZWE,Lower middle income,1991,4850329.0
+Angola,AGO,Lower middle income,1992,5121984.0
+Burundi,BDI,Low income,1992,2573412.0
+Benin,BEN,Lower middle income,1992,2087438.0
+Burkina Faso,BFA,Low income,1992,4077387.0
+Botswana,BWA,Upper middle income,1992,449977.0
+Central African Republic,CAF,Low income,1992,1191898.0
+Cote d'Ivoire,CIV,Lower middle income,1992,4625664.0
+Cameroon,CMR,Lower middle income,1992,5563331.0
+Democratic Republic of Congo,COD,Low income,1992,14765980.0
+Republic of Congo,COG,Lower middle income,1992,953723.0
+Comoros,COM,Lower middle income,1992,99808.0
+Cabo Verde,CPV,Lower middle income,1992,116304.0
+Eritrea,ERI,Low income,1992,971710.0
+Ethiopia,ETH,Low income,1992,21407690.0
+Gabon,GAB,Upper middle income,1992,291171.0
+Ghana,GHA,Lower middle income,1992,6780720.0
+Guinea,GIN,Low income,1992,2344341.0
+Gambia,GMB,Low income,1992,324755.0
+Guinea-Bissau,GNB,Low income,1992,394360.0
+Equatorial Guinea,GNQ,Upper middle income,1992,146464.0
+Kenya,KEN,Lower middle income,1992,9552647.0
+Liberia,LBR,Low income,1992,862026.0
+Lesotho,LSO,Lower middle income,1992,733389.0
+Madagascar,MDG,Low income,1992,5839443.0
+Mali,MLI,Low income,1992,3309470.0
+Mozambique,MOZ,Low income,1992,6339305.0
+Mauritania,MRT,Lower middle income,1992,601518.0
+Mauritius,MUS,Upper middle income,1992,461500.0
+Malawi,MWI,Low income,1992,4110302.0
+Namibia,NAM,Upper middle income,1992,464685.0
+Niger,NER,Low income,1992,3497009.0
+Nigeria,NGA,Lower middle income,1992,33503976.0
+Rwanda,RWA,Low income,1992,3055171.0
+Sudan,SDN,Low income,1992,5973647.0
+Senegal,SEN,Lower middle income,1992,2172582.0
+Sierra Leone,SLE,Low income,1992,1568796.0
+Somalia,SOM,Low income,1992,1355440.0
+South Sudan,SSD,Low income,1992,2190172.0
+Sao Tome and Principe,STP,Lower middle income,1992,36360.0
+Eswatini,SWZ,Lower middle income,1992,243414.0
+Seychelles,SYC,High income,1992,
+Chad,TCD,Low income,1992,2392078.0
+Togo,TGO,Low income,1992,1264975.0
+Tanzania,TZA,Lower middle income,1992,12676615.0
+Uganda,UGA,Low income,1992,6624286.0
+South Africa,ZAF,Upper middle income,1992,13761763.0
+Zambia,ZMB,Low income,1992,3554962.0
+Zimbabwe,ZWE,Lower middle income,1992,4980977.0
+Angola,AGO,Lower middle income,1993,5290801.0
+Burundi,BDI,Low income,1993,2583083.0
+Benin,BEN,Lower middle income,1993,2164152.0
+Burkina Faso,BFA,Low income,1993,4160309.0
+Botswana,BWA,Upper middle income,1993,464895.0
+Central African Republic,CAF,Low income,1993,1228091.0
+Cote d'Ivoire,CIV,Lower middle income,1993,4807146.0
+Cameroon,CMR,Lower middle income,1993,5729432.0
+Democratic Republic of Congo,COD,Low income,1993,15333028.0
+Republic of Congo,COG,Lower middle income,1993,984888.0
+Comoros,COM,Lower middle income,1993,102853.0
+Cabo Verde,CPV,Lower middle income,1993,119709.0
+Eritrea,ERI,Low income,1993,951650.0
+Ethiopia,ETH,Low income,1993,22166297.0
+Gabon,GAB,Upper middle income,1993,298900.0
+Ghana,GHA,Lower middle income,1993,6973372.0
+Guinea,GIN,Low income,1993,2401636.0
+Gambia,GMB,Low income,1993,333641.0
+Guinea-Bissau,GNB,Low income,1993,403486.0
+Equatorial Guinea,GNQ,Upper middle income,1993,151411.0
+Kenya,KEN,Lower middle income,1993,9940305.0
+Liberia,LBR,Low income,1993,856624.0
+Lesotho,LSO,Lower middle income,1993,755941.0
+Madagascar,MDG,Low income,1993,6027288.0
+Mali,MLI,Low income,1993,3398804.0
+Mozambique,MOZ,Low income,1993,6645004.0
+Mauritania,MRT,Lower middle income,1993,618056.0
+Mauritius,MUS,Upper middle income,1993,467883.0
+Malawi,MWI,Low income,1993,4124652.0
+Namibia,NAM,Upper middle income,1993,477822.0
+Niger,NER,Low income,1993,3622868.0
+Nigeria,NGA,Lower middle income,1993,34424333.0
+Rwanda,RWA,Low income,1993,2940675.0
+Sudan,SDN,Low income,1993,6267422.0
+Senegal,SEN,Lower middle income,1993,2242036.0
+Sierra Leone,SLE,Low income,1993,1560543.0
+Somalia,SOM,Low income,1993,1357004.0
+South Sudan,SSD,Low income,1993,2143563.0
+Sao Tome and Principe,STP,Lower middle income,1993,37274.0
+Eswatini,SWZ,Lower middle income,1993,250534.0
+Seychelles,SYC,High income,1993,
+Chad,TCD,Low income,1993,2464620.0
+Togo,TGO,Low income,1993,1294607.0
+Tanzania,TZA,Lower middle income,1993,13130017.0
+Uganda,UGA,Low income,1993,6822666.0
+South Africa,ZAF,Upper middle income,1993,14191564.0
+Zambia,ZMB,Low income,1993,3647800.0
+Zimbabwe,ZWE,Lower middle income,1993,5110439.0
+Angola,AGO,Lower middle income,1994,5468248.0
+Burundi,BDI,Low income,1994,2592338.0
+Benin,BEN,Lower middle income,1994,2243407.0
+Burkina Faso,BFA,Low income,1994,4248494.0
+Botswana,BWA,Upper middle income,1994,480197.0
+Central African Republic,CAF,Low income,1994,1265878.0
+Cote d'Ivoire,CIV,Lower middle income,1994,4993584.0
+Cameroon,CMR,Lower middle income,1994,5903404.0
+Democratic Republic of Congo,COD,Low income,1994,15893188.0
+Republic of Congo,COG,Lower middle income,1994,1017094.0
+Comoros,COM,Lower middle income,1994,106024.0
+Cabo Verde,CPV,Lower middle income,1994,123348.0
+Eritrea,ERI,Low income,1994,932010.0
+Ethiopia,ETH,Low income,1994,22948933.0
+Gabon,GAB,Upper middle income,1994,306908.0
+Ghana,GHA,Lower middle income,1994,7167471.0
+Guinea,GIN,Low income,1994,2461517.0
+Gambia,GMB,Low income,1994,342584.0
+Guinea-Bissau,GNB,Low income,1994,413164.0
+Equatorial Guinea,GNQ,Upper middle income,1994,156948.0
+Kenya,KEN,Lower middle income,1994,10335948.0
+Liberia,LBR,Low income,1994,865357.0
+Lesotho,LSO,Lower middle income,1994,778800.0
+Madagascar,MDG,Low income,1994,6224218.0
+Mali,MLI,Low income,1994,3494676.0
+Mozambique,MOZ,Low income,1994,6950695.0
+Mauritania,MRT,Lower middle income,1994,635125.0
+Mauritius,MUS,Upper middle income,1994,475670.0
+Malawi,MWI,Low income,1994,4142275.0
+Namibia,NAM,Upper middle income,1994,490715.0
+Niger,NER,Low income,1994,3757424.0
+Nigeria,NGA,Lower middle income,1994,35384609.0
+Rwanda,RWA,Low income,1994,2879037.0
+Sudan,SDN,Low income,1994,6563002.0
+Senegal,SEN,Lower middle income,1994,2313028.0
+Sierra Leone,SLE,Low income,1994,1553346.0
+Somalia,SOM,Low income,1994,1364732.0
+South Sudan,SSD,Low income,1994,2114104.0
+Sao Tome and Principe,STP,Lower middle income,1994,38201.0
+Eswatini,SWZ,Lower middle income,1994,257850.0
+Seychelles,SYC,High income,1994,
+Chad,TCD,Low income,1994,2524988.0
+Togo,TGO,Low income,1994,1327669.0
+Tanzania,TZA,Lower middle income,1994,13585422.0
+Uganda,UGA,Low income,1994,7027033.0
+South Africa,ZAF,Upper middle income,1994,14624043.0
+Zambia,ZMB,Low income,1994,3745528.0
+Zimbabwe,ZWE,Lower middle income,1994,5232727.0
+Angola,AGO,Lower middle income,1995,5655486.0
+Burundi,BDI,Low income,1995,2601482.0
+Benin,BEN,Lower middle income,1995,2323886.0
+Burkina Faso,BFA,Low income,1995,4341483.0
+Botswana,BWA,Upper middle income,1995,496274.0
+Central African Republic,CAF,Low income,1995,1304011.0
+Cote d'Ivoire,CIV,Lower middle income,1995,5182341.0
+Cameroon,CMR,Lower middle income,1995,6086090.0
+Democratic Republic of Congo,COD,Low income,1995,16428194.0
+Republic of Congo,COG,Lower middle income,1995,1050184.0
+Comoros,COM,Lower middle income,1995,109305.0
+Cabo Verde,CPV,Lower middle income,1995,127121.0
+Eritrea,ERI,Low income,1995,916425.0
+Ethiopia,ETH,Low income,1995,23869811.0
+Gabon,GAB,Upper middle income,1995,315201.0
+Ghana,GHA,Lower middle income,1995,7360399.0
+Guinea,GIN,Low income,1995,2524564.0
+Gambia,GMB,Low income,1995,352023.0
+Guinea-Bissau,GNB,Low income,1995,423386.0
+Equatorial Guinea,GNQ,Upper middle income,1995,163190.0
+Kenya,KEN,Lower middle income,1995,10733809.0
+Liberia,LBR,Low income,1995,891933.0
+Lesotho,LSO,Lower middle income,1995,801464.0
+Madagascar,MDG,Low income,1995,6429103.0
+Mali,MLI,Low income,1995,3594450.0
+Mozambique,MOZ,Low income,1995,7236326.0
+Mauritania,MRT,Lower middle income,1995,652678.0
+Mauritius,MUS,Upper middle income,1995,481386.0
+Malawi,MWI,Low income,1995,4179486.0
+Namibia,NAM,Upper middle income,1995,501192.0
+Niger,NER,Low income,1995,3899810.0
+Nigeria,NGA,Lower middle income,1995,36383806.0
+Rwanda,RWA,Low income,1995,2906909.0
+Sudan,SDN,Low income,1995,6853336.0
+Senegal,SEN,Lower middle income,1995,2385214.0
+Sierra Leone,SLE,Low income,1995,1551453.0
+Somalia,SOM,Low income,1995,1382019.0
+South Sudan,SSD,Low income,1995,2111362.0
+Sao Tome and Principe,STP,Lower middle income,1995,39145.0
+Eswatini,SWZ,Lower middle income,1995,265576.0
+Seychelles,SYC,High income,1995,
+Chad,TCD,Low income,1995,2589518.0
+Togo,TGO,Low income,1995,1365642.0
+Tanzania,TZA,Lower middle income,1995,14033071.0
+Uganda,UGA,Low income,1995,7237583.0
+South Africa,ZAF,Upper middle income,1995,15050229.0
+Zambia,ZMB,Low income,1995,3849453.0
+Zimbabwe,ZWE,Lower middle income,1995,5345211.0
+Angola,AGO,Lower middle income,1996,5838598.0
+Burundi,BDI,Low income,1996,2607017.0
+Benin,BEN,Lower middle income,1996,2394635.0
+Burkina Faso,BFA,Low income,1996,4423530.0
+Botswana,BWA,Upper middle income,1996,512062.0
+Central African Republic,CAF,Low income,1996,1338026.0
+Cote d'Ivoire,CIV,Lower middle income,1996,5353165.0
+Cameroon,CMR,Lower middle income,1996,6264294.0
+Democratic Republic of Congo,COD,Low income,1996,16862627.0
+Republic of Congo,COG,Lower middle income,1996,1084112.0
+Comoros,COM,Lower middle income,1996,112644.0
+Cabo Verde,CPV,Lower middle income,1996,130595.0
+Eritrea,ERI,Low income,1996,920221.0
+Ethiopia,ETH,Low income,1996,24730404.0
+Gabon,GAB,Upper middle income,1996,323652.0
+Ghana,GHA,Lower middle income,1996,7539430.0
+Guinea,GIN,Low income,1996,2583093.0
+Gambia,GMB,Low income,1996,360782.0
+Guinea-Bissau,GNB,Low income,1996,431852.0
+Equatorial Guinea,GNQ,Upper middle income,1996,170232.0
+Kenya,KEN,Lower middle income,1996,11117180.0
+Liberia,LBR,Low income,1996,945091.0
+Lesotho,LSO,Lower middle income,1996,821749.0
+Madagascar,MDG,Low income,1996,6627978.0
+Mali,MLI,Low income,1996,3684287.0
+Mozambique,MOZ,Low income,1996,7443720.0
+Mauritania,MRT,Lower middle income,1996,670476.0
+Mauritius,MUS,Upper middle income,1996,485898.0
+Malawi,MWI,Low income,1996,4239219.0
+Namibia,NAM,Upper middle income,1996,510283.0
+Niger,NER,Low income,1996,4032171.0
+Nigeria,NGA,Lower middle income,1996,37336353.0
+Rwanda,RWA,Low income,1996,2989465.0
+Sudan,SDN,Low income,1996,7091892.0
+Senegal,SEN,Lower middle income,1996,2449620.0
+Sierra Leone,SLE,Low income,1996,1552949.0
+Somalia,SOM,Low income,1996,1411104.0
+South Sudan,SSD,Low income,1996,2150647.0
+Sao Tome and Principe,STP,Lower middle income,1996,39992.0
+Eswatini,SWZ,Lower middle income,1996,272503.0
+Seychelles,SYC,High income,1996,
+Chad,TCD,Low income,1996,2649892.0
+Togo,TGO,Low income,1996,1413588.0
+Tanzania,TZA,Lower middle income,1996,14415894.0
+Uganda,UGA,Low income,1996,7426019.0
+South Africa,ZAF,Upper middle income,1996,15446856.0
+Zambia,ZMB,Low income,1996,3955577.0
+Zimbabwe,ZWE,Lower middle income,1996,5434530.0
+Angola,AGO,Lower middle income,1997,6033482.0
+Burundi,BDI,Low income,1997,2611642.0
+Benin,BEN,Lower middle income,1997,2467343.0
+Burkina Faso,BFA,Low income,1997,4512176.0
+Botswana,BWA,Upper middle income,1997,528778.0
+Central African Republic,CAF,Low income,1997,1372044.0
+Cote d'Ivoire,CIV,Lower middle income,1997,5526529.0
+Cameroon,CMR,Lower middle income,1997,6451990.0
+Democratic Republic of Congo,COD,Low income,1997,17270671.0
+Republic of Congo,COG,Lower middle income,1997,1119164.0
+Comoros,COM,Lower middle income,1997,116069.0
+Cabo Verde,CPV,Lower middle income,1997,134265.0
+Eritrea,ERI,Low income,1997,928928.0
+Ethiopia,ETH,Low income,1997,25612115.0
+Gabon,GAB,Upper middle income,1997,332471.0
+Ghana,GHA,Lower middle income,1997,7715323.0
+Guinea,GIN,Low income,1997,2645203.0
+Gambia,GMB,Low income,1997,370370.0
+Guinea-Bissau,GNB,Low income,1997,441043.0
+Equatorial Guinea,GNQ,Upper middle income,1997,178092.0
+Kenya,KEN,Lower middle income,1997,11489370.0
+Liberia,LBR,Low income,1997,1020077.0
+Lesotho,LSO,Lower middle income,1997,841535.0
+Madagascar,MDG,Low income,1997,6837439.0
+Mali,MLI,Low income,1997,3780734.0
+Mozambique,MOZ,Low income,1997,7639779.0
+Mauritania,MRT,Lower middle income,1997,688762.0
+Mauritius,MUS,Upper middle income,1997,492978.0
+Malawi,MWI,Low income,1997,4323484.0
+Namibia,NAM,Upper middle income,1997,519265.0
+Niger,NER,Low income,1997,4173356.0
+Nigeria,NGA,Lower middle income,1997,38335446.0
+Rwanda,RWA,Low income,1997,3167152.0
+Sudan,SDN,Low income,1997,7268379.0
+Senegal,SEN,Lower middle income,1997,2515454.0
+Sierra Leone,SLE,Low income,1997,1561885.0
+Somalia,SOM,Low income,1997,1451278.0
+South Sudan,SSD,Low income,1997,2225909.0
+Sao Tome and Principe,STP,Lower middle income,1997,40863.0
+Eswatini,SWZ,Lower middle income,1997,279963.0
+Seychelles,SYC,High income,1997,
+Chad,TCD,Low income,1997,2716101.0
+Togo,TGO,Low income,1997,1466490.0
+Tanzania,TZA,Lower middle income,1997,14793494.0
+Uganda,UGA,Low income,1997,7623110.0
+South Africa,ZAF,Upper middle income,1997,15829321.0
+Zambia,ZMB,Low income,1997,4069697.0
+Zimbabwe,ZWE,Lower middle income,1997,5510105.0
+Angola,AGO,Lower middle income,1998,6240408.0
+Burundi,BDI,Low income,1998,2620582.0
+Benin,BEN,Lower middle income,1998,2542712.0
+Burkina Faso,BFA,Low income,1998,4605787.0
+Botswana,BWA,Upper middle income,1998,545996.0
+Central African Republic,CAF,Low income,1998,1406301.0
+Cote d'Ivoire,CIV,Lower middle income,1998,5699997.0
+Cameroon,CMR,Lower middle income,1998,6649491.0
+Democratic Republic of Congo,COD,Low income,1998,17675817.0
+Republic of Congo,COG,Lower middle income,1998,1155196.0
+Comoros,COM,Lower middle income,1998,119592.0
+Cabo Verde,CPV,Lower middle income,1998,138093.0
+Eritrea,ERI,Low income,1998,944592.0
+Ethiopia,ETH,Low income,1998,26518789.0
+Gabon,GAB,Upper middle income,1998,341616.0
+Ghana,GHA,Lower middle income,1998,7892960.0
+Guinea,GIN,Low income,1998,2709644.0
+Gambia,GMB,Low income,1998,380798.0
+Guinea-Bissau,GNB,Low income,1998,450890.0
+Equatorial Guinea,GNQ,Upper middle income,1998,186543.0
+Kenya,KEN,Lower middle income,1998,11861012.0
+Liberia,LBR,Low income,1998,1105751.0
+Lesotho,LSO,Lower middle income,1998,859807.0
+Madagascar,MDG,Low income,1998,7056482.0
+Mali,MLI,Low income,1998,3883779.0
+Mozambique,MOZ,Low income,1998,7867010.0
+Mauritania,MRT,Lower middle income,1998,707785.0
+Mauritius,MUS,Upper middle income,1998,499689.0
+Malawi,MWI,Low income,1998,4425649.0
+Namibia,NAM,Upper middle income,1998,533421.0
+Niger,NER,Low income,1998,4321762.0
+Nigeria,NGA,Lower middle income,1998,39374850.0
+Rwanda,RWA,Low income,1998,3389832.0
+Sudan,SDN,Low income,1998,7441064.0
+Senegal,SEN,Lower middle income,1998,2583190.0
+Sierra Leone,SLE,Low income,1998,1580590.0
+Somalia,SOM,Low income,1998,1499245.0
+South Sudan,SSD,Low income,1998,2325306.0
+Sao Tome and Principe,STP,Lower middle income,1998,41757.0
+Eswatini,SWZ,Lower middle income,1998,287497.0
+Seychelles,SYC,High income,1998,
+Chad,TCD,Low income,1998,2788248.0
+Togo,TGO,Low income,1998,1522612.0
+Tanzania,TZA,Lower middle income,1998,15175922.0
+Uganda,UGA,Low income,1998,7831600.0
+South Africa,ZAF,Upper middle income,1998,16201731.0
+Zambia,ZMB,Low income,1998,4189791.0
+Zimbabwe,ZWE,Lower middle income,1998,5575962.0
+Angola,AGO,Lower middle income,1999,6459622.0
+Burundi,BDI,Low income,1999,2651693.0
+Benin,BEN,Lower middle income,1999,2621882.0
+Burkina Faso,BFA,Low income,1999,4702685.0
+Botswana,BWA,Upper middle income,1999,562952.0
+Central African Republic,CAF,Low income,1999,1441240.0
+Cote d'Ivoire,CIV,Lower middle income,1999,5832501.0
+Cameroon,CMR,Lower middle income,1999,6856146.0
+Democratic Republic of Congo,COD,Low income,1999,18107727.0
+Republic of Congo,COG,Lower middle income,1999,1192141.0
+Comoros,COM,Lower middle income,1999,123193.0
+Cabo Verde,CPV,Lower middle income,1999,141997.0
+Eritrea,ERI,Low income,1999,969168.0
+Ethiopia,ETH,Low income,1999,27461846.0
+Gabon,GAB,Upper middle income,1999,351031.0
+Ghana,GHA,Lower middle income,1999,8079239.0
+Guinea,GIN,Low income,1999,2774702.0
+Gambia,GMB,Low income,1999,392171.0
+Guinea-Bissau,GNB,Low income,1999,461297.0
+Equatorial Guinea,GNQ,Upper middle income,1999,195327.0
+Kenya,KEN,Lower middle income,1999,12247392.0
+Liberia,LBR,Low income,1999,1188257.0
+Lesotho,LSO,Lower middle income,1999,875325.0
+Madagascar,MDG,Low income,1999,7285112.0
+Mali,MLI,Low income,1999,3993499.0
+Mozambique,MOZ,Low income,1999,8103615.0
+Mauritania,MRT,Lower middle income,1999,727907.0
+Mauritius,MUS,Upper middle income,1999,507034.0
+Malawi,MWI,Low income,1999,4536710.0
+Namibia,NAM,Upper middle income,1999,548006.0
+Niger,NER,Low income,1999,4476047.0
+Nigeria,NGA,Lower middle income,1999,40447932.0
+Rwanda,RWA,Low income,1999,3600414.0
+Sudan,SDN,Low income,1999,7615772.0
+Senegal,SEN,Lower middle income,1999,2653210.0
+Sierra Leone,SLE,Low income,1999,1611472.0
+Somalia,SOM,Low income,1999,1551125.0
+South Sudan,SSD,Low income,1999,2434507.0
+Sao Tome and Principe,STP,Lower middle income,1999,42657.0
+Eswatini,SWZ,Lower middle income,1999,294408.0
+Seychelles,SYC,High income,1999,
+Chad,TCD,Low income,1999,2866410.0
+Togo,TGO,Low income,1999,1579603.0
+Tanzania,TZA,Lower middle income,1999,15573986.0
+Uganda,UGA,Low income,1999,8055073.0
+South Africa,ZAF,Upper middle income,1999,16568904.0
+Zambia,ZMB,Low income,1999,4313163.0
+Zimbabwe,ZWE,Lower middle income,1999,5637954.0
+Angola,AGO,Lower middle income,2000,6691044.0
+Burundi,BDI,Low income,2000,2697055.0
+Benin,BEN,Lower middle income,2000,2705727.0
+Burkina Faso,BFA,Low income,2000,4802017.0
+Botswana,BWA,Upper middle income,2000,579053.0
+Central African Republic,CAF,Low income,2000,1477085.0
+Cote d'Ivoire,CIV,Lower middle income,2000,5959271.0
+Cameroon,CMR,Lower middle income,2000,7071237.0
+Democratic Republic of Congo,COD,Low income,2000,18585329.0
+Republic of Congo,COG,Lower middle income,2000,1229930.0
+Comoros,COM,Lower middle income,2000,126872.0
+Cabo Verde,CPV,Lower middle income,2000,145952.0
+Eritrea,ERI,Low income,2000,1003539.0
+Ethiopia,ETH,Low income,2000,28448679.0
+Gabon,GAB,Upper middle income,2000,360691.0
+Ghana,GHA,Lower middle income,2000,8277620.0
+Guinea,GIN,Low income,2000,2839654.0
+Gambia,GMB,Low income,2000,404611.0
+Guinea-Bissau,GNB,Low income,2000,472281.0
+Equatorial Guinea,GNQ,Upper middle income,2000,204358.0
+Kenya,KEN,Lower middle income,2000,12690470.0
+Liberia,LBR,Low income,2000,1258929.0
+Lesotho,LSO,Lower middle income,2000,882951.0
+Madagascar,MDG,Low income,2000,7523460.0
+Mali,MLI,Low income,2000,4110233.0
+Mozambique,MOZ,Low income,2000,8356479.0
+Mauritania,MRT,Lower middle income,2000,749317.0
+Mauritius,MUS,Upper middle income,2000,512062.0
+Malawi,MWI,Low income,2000,4652909.0
+Namibia,NAM,Upper middle income,2000,563204.0
+Niger,NER,Low income,2000,4636661.0
+Nigeria,NGA,Lower middle income,2000,41549406.0
+Rwanda,RWA,Low income,2000,3772224.0
+Sudan,SDN,Low income,2000,7797857.0
+Senegal,SEN,Lower middle income,2000,2725892.0
+Sierra Leone,SLE,Low income,2000,1655397.0
+Somalia,SOM,Low income,2000,1604240.0
+South Sudan,SSD,Low income,2000,2544221.0
+Sao Tome and Principe,STP,Lower middle income,2000,43569.0
+Eswatini,SWZ,Lower middle income,2000,300300.0
+Seychelles,SYC,High income,2000,
+Chad,TCD,Low income,2000,2950564.0
+Togo,TGO,Low income,2000,1635559.0
+Tanzania,TZA,Lower middle income,2000,15994481.0
+Uganda,UGA,Low income,2000,8295714.0
+South Africa,ZAF,Upper middle income,2000,16933282.0
+Zambia,ZMB,Low income,2000,4437759.0
+Zimbabwe,ZWE,Lower middle income,2000,5698527.0
+Angola,AGO,Lower middle income,2001,6917424.0
+Burundi,BDI,Low income,2001,2782275.0
+Benin,BEN,Lower middle income,2001,2790770.0
+Burkina Faso,BFA,Low income,2001,4890006.0
+Botswana,BWA,Upper middle income,2001,597765.0
+Central African Republic,CAF,Low income,2001,1507068.0
+Cote d'Ivoire,CIV,Lower middle income,2001,6039616.0
+Cameroon,CMR,Lower middle income,2001,7280342.0
+Democratic Republic of Congo,COD,Low income,2001,19081718.0
+Republic of Congo,COG,Lower middle income,2001,1266724.0
+Comoros,COM,Lower middle income,2001,130496.0
+Cabo Verde,CPV,Lower middle income,2001,150755.0
+Eritrea,ERI,Low income,2001,1068536.0
+Ethiopia,ETH,Low income,2001,29365214.0
+Gabon,GAB,Upper middle income,2001,370691.0
+Ghana,GHA,Lower middle income,2001,8478581.0
+Guinea,GIN,Low income,2001,2891492.0
+Gambia,GMB,Low income,2001,418546.0
+Guinea-Bissau,GNB,Low income,2001,484174.0
+Equatorial Guinea,GNQ,Upper middle income,2001,213661.0
+Kenya,KEN,Lower middle income,2001,13099487.0
+Liberia,LBR,Low income,2001,1303033.0
+Lesotho,LSO,Lower middle income,2001,886237.0
+Madagascar,MDG,Low income,2001,7756351.0
+Mali,MLI,Low income,2001,4227124.0
+Mozambique,MOZ,Low income,2001,8603680.0
+Mauritania,MRT,Lower middle income,2001,766489.0
+Mauritius,MUS,Upper middle income,2001,515671.0
+Malawi,MWI,Low income,2001,4754603.0
+Namibia,NAM,Upper middle income,2001,579647.0
+Niger,NER,Low income,2001,4786940.0
+Nigeria,NGA,Lower middle income,2001,42586341.0
+Rwanda,RWA,Low income,2001,3926244.0
+Sudan,SDN,Low income,2001,7988830.0
+Senegal,SEN,Lower middle income,2001,2798398.0
+Sierra Leone,SLE,Low income,2001,1716767.0
+Somalia,SOM,Low income,2001,1654256.0
+South Sudan,SSD,Low income,2001,2643848.0
+Sao Tome and Principe,STP,Lower middle income,2001,44469.0
+Eswatini,SWZ,Lower middle income,2001,304574.0
+Seychelles,SYC,High income,2001,
+Chad,TCD,Low income,2001,3033297.0
+Togo,TGO,Low income,2001,1683432.0
+Tanzania,TZA,Lower middle income,2001,16430141.0
+Uganda,UGA,Low income,2001,8546674.0
+South Africa,ZAF,Upper middle income,2001,17261790.0
+Zambia,ZMB,Low income,2001,4544233.0
+Zimbabwe,ZWE,Lower middle income,2001,5734130.0
+Angola,AGO,Lower middle income,2002,7158186.0
+Burundi,BDI,Low income,2002,2882004.0
+Benin,BEN,Lower middle income,2002,2881278.0
+Burkina Faso,BFA,Low income,2002,4982834.0
+Botswana,BWA,Upper middle income,2002,615328.0
+Central African Republic,CAF,Low income,2002,1537870.0
+Cote d'Ivoire,CIV,Lower middle income,2002,6114727.0
+Cameroon,CMR,Lower middle income,2002,7497332.0
+Democratic Republic of Congo,COD,Low income,2002,19631914.0
+Republic of Congo,COG,Lower middle income,2002,1304575.0
+Comoros,COM,Lower middle income,2002,134196.0
+Cabo Verde,CPV,Lower middle income,2002,155350.0
+Eritrea,ERI,Low income,2002,1143458.0
+Ethiopia,ETH,Low income,2002,30338931.0
+Gabon,GAB,Upper middle income,2002,381029.0
+Ghana,GHA,Lower middle income,2002,8695052.0
+Guinea,GIN,Low income,2002,2943740.0
+Gambia,GMB,Low income,2002,433537.0
+Guinea-Bissau,GNB,Low income,2002,496856.0
+Equatorial Guinea,GNQ,Upper middle income,2002,223456.0
+Kenya,KEN,Lower middle income,2002,13550867.0
+Liberia,LBR,Low income,2002,1333236.0
+Lesotho,LSO,Lower middle income,2002,885225.0
+Madagascar,MDG,Low income,2002,8003786.0
+Mali,MLI,Low income,2002,4351841.0
+Mozambique,MOZ,Low income,2002,8868073.0
+Mauritania,MRT,Lower middle income,2002,784986.0
+Mauritius,MUS,Upper middle income,2002,517528.0
+Malawi,MWI,Low income,2002,4865483.0
+Namibia,NAM,Upper middle income,2002,596783.0
+Niger,NER,Low income,2002,4948813.0
+Nigeria,NGA,Lower middle income,2002,43663607.0
+Rwanda,RWA,Low income,2002,4039553.0
+Sudan,SDN,Low income,2002,8188110.0
+Senegal,SEN,Lower middle income,2002,2874354.0
+Sierra Leone,SLE,Low income,2002,1794343.0
+Somalia,SOM,Low income,2002,1706991.0
+South Sudan,SSD,Low income,2002,2745615.0
+Sao Tome and Principe,STP,Lower middle income,2002,45399.0
+Eswatini,SWZ,Lower middle income,2002,307517.0
+Seychelles,SYC,High income,2002,
+Chad,TCD,Low income,2002,3123744.0
+Togo,TGO,Low income,2002,1730554.0
+Tanzania,TZA,Lower middle income,2002,16961201.0
+Uganda,UGA,Low income,2002,8817750.0
+South Africa,ZAF,Upper middle income,2002,17588937.0
+Zambia,ZMB,Low income,2002,4652734.0
+Zimbabwe,ZWE,Lower middle income,2002,5765699.0
+Angola,AGO,Lower middle income,2003,7414108.0
+Burundi,BDI,Low income,2003,2993327.0
+Benin,BEN,Lower middle income,2003,2978736.0
+Burkina Faso,BFA,Low income,2003,5079908.0
+Botswana,BWA,Upper middle income,2003,632478.0
+Central African Republic,CAF,Low income,2003,1569302.0
+Cote d'Ivoire,CIV,Lower middle income,2003,6188135.0
+Cameroon,CMR,Lower middle income,2003,7722587.0
+Democratic Republic of Congo,COD,Low income,2003,20229901.0
+Republic of Congo,COG,Lower middle income,2003,1344079.0
+Comoros,COM,Lower middle income,2003,137978.0
+Cabo Verde,CPV,Lower middle income,2003,159892.0
+Eritrea,ERI,Low income,2003,1224054.0
+Ethiopia,ETH,Low income,2003,31356568.0
+Gabon,GAB,Upper middle income,2003,391858.0
+Ghana,GHA,Lower middle income,2003,8924229.0
+Guinea,GIN,Low income,2003,2998214.0
+Gambia,GMB,Low income,2003,449503.0
+Guinea-Bissau,GNB,Low income,2003,510335.0
+Equatorial Guinea,GNQ,Upper middle income,2003,233682.0
+Kenya,KEN,Lower middle income,2003,14029692.0
+Liberia,LBR,Low income,2003,1356764.0
+Lesotho,LSO,Lower middle income,2003,881725.0
+Madagascar,MDG,Low income,2003,8263707.0
+Mali,MLI,Low income,2003,4484536.0
+Mozambique,MOZ,Low income,2003,9146318.0
+Mauritania,MRT,Lower middle income,2003,804484.0
+Mauritius,MUS,Upper middle income,2003,524881.0
+Malawi,MWI,Low income,2003,4985603.0
+Namibia,NAM,Upper middle income,2003,614683.0
+Niger,NER,Low income,2003,5120586.0
+Nigeria,NGA,Lower middle income,2003,44782051.0
+Rwanda,RWA,Low income,2003,4131048.0
+Sudan,SDN,Low income,2003,8393743.0
+Senegal,SEN,Lower middle income,2003,2953652.0
+Sierra Leone,SLE,Low income,2003,1881038.0
+Somalia,SOM,Low income,2003,1761675.0
+South Sudan,SSD,Low income,2003,2854673.0
+Sao Tome and Principe,STP,Lower middle income,2003,46355.0
+Eswatini,SWZ,Lower middle income,2003,309636.0
+Seychelles,SYC,High income,2003,
+Chad,TCD,Low income,2003,3219765.0
+Togo,TGO,Low income,2003,1777617.0
+Tanzania,TZA,Lower middle income,2003,17512448.0
+Uganda,UGA,Low income,2003,9107304.0
+South Africa,ZAF,Upper middle income,2003,17914454.0
+Zambia,ZMB,Low income,2003,4764127.0
+Zimbabwe,ZWE,Lower middle income,2003,5795681.0
+Angola,AGO,Lower middle income,2004,7685303.0
+Burundi,BDI,Low income,2004,3111691.0
+Benin,BEN,Lower middle income,2004,3079953.0
+Burkina Faso,BFA,Low income,2004,5180735.0
+Botswana,BWA,Upper middle income,2004,650297.0
+Central African Republic,CAF,Low income,2004,1601151.0
+Cote d'Ivoire,CIV,Lower middle income,2004,6264536.0
+Cameroon,CMR,Lower middle income,2004,7956562.0
+Democratic Republic of Congo,COD,Low income,2004,20867142.0
+Republic of Congo,COG,Lower middle income,2004,1386007.0
+Comoros,COM,Lower middle income,2004,141840.0
+Cabo Verde,CPV,Lower middle income,2004,164596.0
+Eritrea,ERI,Low income,2004,1303755.0
+Ethiopia,ETH,Low income,2004,32409760.0
+Gabon,GAB,Upper middle income,2004,403396.0
+Ghana,GHA,Lower middle income,2004,9161159.0
+Guinea,GIN,Low income,2004,3057096.0
+Gambia,GMB,Low income,2004,466351.0
+Guinea-Bissau,GNB,Low income,2004,524574.0
+Equatorial Guinea,GNQ,Upper middle income,2004,244447.0
+Kenya,KEN,Lower middle income,2004,14512441.0
+Liberia,LBR,Low income,2004,1383154.0
+Lesotho,LSO,Lower middle income,2004,877908.0
+Madagascar,MDG,Low income,2004,8533950.0
+Mali,MLI,Low income,2004,4625600.0
+Mozambique,MOZ,Low income,2004,9345690.0
+Mauritania,MRT,Lower middle income,2004,824512.0
+Mauritius,MUS,Upper middle income,2004,532487.0
+Malawi,MWI,Low income,2004,5113549.0
+Namibia,NAM,Upper middle income,2004,633179.0
+Niger,NER,Low income,2004,5300889.0
+Nigeria,NGA,Lower middle income,2004,45940926.0
+Rwanda,RWA,Low income,2004,4221271.0
+Sudan,SDN,Low income,2004,8603781.0
+Senegal,SEN,Lower middle income,2004,3035977.0
+Sierra Leone,SLE,Low income,2004,2013986.0
+Somalia,SOM,Low income,2004,1817488.0
+South Sudan,SSD,Low income,2004,2977782.0
+Sao Tome and Principe,STP,Lower middle income,2004,47363.0
+Eswatini,SWZ,Lower middle income,2004,311633.0
+Seychelles,SYC,High income,2004,
+Chad,TCD,Low income,2004,3319374.0
+Togo,TGO,Low income,2004,1825540.0
+Tanzania,TZA,Lower middle income,2004,18088481.0
+Uganda,UGA,Low income,2004,9413897.0
+South Africa,ZAF,Upper middle income,2004,18235338.0
+Zambia,ZMB,Low income,2004,4880142.0
+Zimbabwe,ZWE,Lower middle income,2004,5824993.0
+Angola,AGO,Lower middle income,2005,7971743.0
+Burundi,BDI,Low income,2005,3233143.0
+Benin,BEN,Lower middle income,2005,3184049.0
+Burkina Faso,BFA,Low income,2005,5284777.0
+Botswana,BWA,Upper middle income,2005,669405.0
+Central African Republic,CAF,Low income,2005,1633259.0
+Cote d'Ivoire,CIV,Lower middle income,2005,6348017.0
+Cameroon,CMR,Lower middle income,2005,8199428.0
+Democratic Republic of Congo,COD,Low income,2005,21537892.0
+Republic of Congo,COG,Lower middle income,2005,1430845.0
+Comoros,COM,Lower middle income,2005,147190.0
+Cabo Verde,CPV,Lower middle income,2005,169530.0
+Eritrea,ERI,Low income,2005,1376646.0
+Ethiopia,ETH,Low income,2005,33507107.0
+Gabon,GAB,Upper middle income,2005,415781.0
+Ghana,GHA,Lower middle income,2005,9402919.0
+Guinea,GIN,Low income,2005,3121797.0
+Gambia,GMB,Low income,2005,484017.0
+Guinea-Bissau,GNB,Low income,2005,539478.0
+Equatorial Guinea,GNQ,Upper middle income,2005,255896.0
+Kenya,KEN,Lower middle income,2005,14988416.0
+Liberia,LBR,Low income,2005,1418648.0
+Lesotho,LSO,Lower middle income,2005,875036.0
+Madagascar,MDG,Low income,2005,8813993.0
+Mali,MLI,Low income,2005,4775015.0
+Mozambique,MOZ,Low income,2005,9548881.0
+Mauritania,MRT,Lower middle income,2005,844816.0
+Mauritius,MUS,Upper middle income,2005,542302.0
+Malawi,MWI,Low income,2005,5248924.0
+Namibia,NAM,Upper middle income,2005,652142.0
+Niger,NER,Low income,2005,5489830.0
+Nigeria,NGA,Lower middle income,2005,47143645.0
+Rwanda,RWA,Low income,2005,4322313.0
+Sudan,SDN,Low income,2005,8816024.0
+Senegal,SEN,Lower middle income,2005,3120967.0
+Sierra Leone,SLE,Low income,2005,2071938.0
+Somalia,SOM,Low income,2005,1874124.0
+South Sudan,SSD,Low income,2005,3118478.0
+Sao Tome and Principe,STP,Lower middle income,2005,48455.0
+Eswatini,SWZ,Lower middle income,2005,313932.0
+Seychelles,SYC,High income,2005,
+Chad,TCD,Low income,2005,3421436.0
+Togo,TGO,Low income,2005,1875088.0
+Tanzania,TZA,Lower middle income,2005,18690099.0
+Uganda,UGA,Low income,2005,9736089.0
+South Africa,ZAF,Upper middle income,2005,18550441.0
+Zambia,ZMB,Low income,2005,5002383.0
+Zimbabwe,ZWE,Lower middle income,2005,5852903.0
+Angola,AGO,Lower middle income,2006,8257189.0
+Burundi,BDI,Low income,2006,3352425.0
+Benin,BEN,Lower middle income,2006,3282301.0
+Burkina Faso,BFA,Low income,2006,5378297.0
+Botswana,BWA,Upper middle income,2006,689223.0
+Central African Republic,CAF,Low income,2006,1660600.0
+Cote d'Ivoire,CIV,Lower middle income,2006,6438218.0
+Cameroon,CMR,Lower middle income,2006,8434331.0
+Democratic Republic of Congo,COD,Low income,2006,21917041.0
+Republic of Congo,COG,Lower middle income,2006,1480403.0
+Comoros,COM,Lower middle income,2006,152556.0
+Cabo Verde,CPV,Lower middle income,2006,174644.0
+Eritrea,ERI,Low income,2006,1420179.0
+Ethiopia,ETH,Low income,2006,34526170.0
+Gabon,GAB,Upper middle income,2006,429821.0
+Ghana,GHA,Lower middle income,2006,9654681.0
+Guinea,GIN,Low income,2006,3192631.0
+Gambia,GMB,Low income,2006,501144.0
+Guinea-Bissau,GNB,Low income,2006,553990.0
+Equatorial Guinea,GNQ,Upper middle income,2006,268600.0
+Kenya,KEN,Lower middle income,2006,15477612.0
+Liberia,LBR,Low income,2006,1465631.0
+Lesotho,LSO,Lower middle income,2006,870783.0
+Madagascar,MDG,Low income,2006,9099004.0
+Mali,MLI,Low income,2006,4918865.0
+Mozambique,MOZ,Low income,2006,9719525.0
+Mauritania,MRT,Lower middle income,2006,864809.0
+Mauritius,MUS,Upper middle income,2006,542498.0
+Malawi,MWI,Low income,2006,5392614.0
+Namibia,NAM,Upper middle income,2006,672831.0
+Niger,NER,Low income,2006,5670231.0
+Nigeria,NGA,Lower middle income,2006,48313048.0
+Rwanda,RWA,Low income,2006,4435052.0
+Sudan,SDN,Low income,2006,9004474.0
+Senegal,SEN,Lower middle income,2006,3206268.0
+Sierra Leone,SLE,Low income,2006,2111521.0
+Somalia,SOM,Low income,2006,1927317.0
+South Sudan,SSD,Low income,2006,3276838.0
+Sao Tome and Principe,STP,Lower middle income,2006,49860.0
+Eswatini,SWZ,Lower middle income,2006,316620.0
+Seychelles,SYC,High income,2006,
+Chad,TCD,Low income,2006,3513870.0
+Togo,TGO,Low income,2006,1924910.0
+Tanzania,TZA,Lower middle income,2006,19272678.0
+Uganda,UGA,Low income,2006,10064402.0
+South Africa,ZAF,Upper middle income,2006,18850913.0
+Zambia,ZMB,Low income,2006,5079427.0
+Zimbabwe,ZWE,Lower middle income,2006,5901376.0
+Angola,AGO,Lower middle income,2007,8560730.0
+Burundi,BDI,Low income,2007,3476102.0
+Benin,BEN,Lower middle income,2007,3383679.0
+Burkina Faso,BFA,Low income,2007,5481494.0
+Botswana,BWA,Upper middle income,2007,721438.0
+Central African Republic,CAF,Low income,2007,1688541.0
+Cote d'Ivoire,CIV,Lower middle income,2007,6538199.0
+Cameroon,CMR,Lower middle income,2007,8681907.0
+Democratic Republic of Congo,COD,Low income,2007,22324099.0
+Republic of Congo,COG,Lower middle income,2007,1532907.0
+Comoros,COM,Lower middle income,2007,158095.0
+Cabo Verde,CPV,Lower middle income,2007,179996.0
+Eritrea,ERI,Low income,2007,1456170.0
+Ethiopia,ETH,Low income,2007,35604865.0
+Gabon,GAB,Upper middle income,2007,444614.0
+Ghana,GHA,Lower middle income,2007,9910741.0
+Guinea,GIN,Low income,2007,3269621.0
+Gambia,GMB,Low income,2007,519203.0
+Guinea-Bissau,GNB,Low income,2007,569253.0
+Equatorial Guinea,GNQ,Upper middle income,2007,282161.0
+Kenya,KEN,Lower middle income,2007,15959067.0
+Liberia,LBR,Low income,2007,1522273.0
+Lesotho,LSO,Lower middle income,2007,868853.0
+Madagascar,MDG,Low income,2007,9392160.0
+Mali,MLI,Low income,2007,5073295.0
+Mozambique,MOZ,Low income,2007,9901978.0
+Mauritania,MRT,Lower middle income,2007,885271.0
+Mauritius,MUS,Upper middle income,2007,540516.0
+Malawi,MWI,Low income,2007,5543701.0
+Namibia,NAM,Upper middle income,2007,693193.0
+Niger,NER,Low income,2007,5865243.0
+Nigeria,NGA,Lower middle income,2007,49544711.0
+Rwanda,RWA,Low income,2007,4554813.0
+Sudan,SDN,Low income,2007,9196231.0
+Senegal,SEN,Lower middle income,2007,3262238.0
+Sierra Leone,SLE,Low income,2007,2142697.0
+Somalia,SOM,Low income,2007,1980496.0
+South Sudan,SSD,Low income,2007,3450615.0
+Sao Tome and Principe,STP,Lower middle income,2007,51381.0
+Eswatini,SWZ,Lower middle income,2007,319538.0
+Seychelles,SYC,High income,2007,
+Chad,TCD,Low income,2007,3609400.0
+Togo,TGO,Low income,2007,1976961.0
+Tanzania,TZA,Lower middle income,2007,19706727.0
+Uganda,UGA,Low income,2007,10411587.0
+South Africa,ZAF,Upper middle income,2007,19146437.0
+Zambia,ZMB,Low income,2007,5163479.0
+Zimbabwe,ZWE,Lower middle income,2007,5949276.0
+Angola,AGO,Lower middle income,2008,8879695.0
+Burundi,BDI,Low income,2008,3601032.0
+Benin,BEN,Lower middle income,2008,3488763.0
+Burkina Faso,BFA,Low income,2008,5588842.0
+Botswana,BWA,Upper middle income,2008,754673.0
+Central African Republic,CAF,Low income,2008,1715553.0
+Cote d'Ivoire,CIV,Lower middle income,2008,6647473.0
+Cameroon,CMR,Lower middle income,2008,8724528.0
+Democratic Republic of Congo,COD,Low income,2008,22750370.0
+Republic of Congo,COG,Lower middle income,2008,1586919.0
+Comoros,COM,Lower middle income,2008,163804.0
+Cabo Verde,CPV,Lower middle income,2008,185435.0
+Eritrea,ERI,Low income,2008,1484864.0
+Ethiopia,ETH,Low income,2008,36761939.0
+Gabon,GAB,Upper middle income,2008,460316.0
+Ghana,GHA,Lower middle income,2008,10170347.0
+Guinea,GIN,Low income,2008,3351766.0
+Gambia,GMB,Low income,2008,538161.0
+Guinea-Bissau,GNB,Low income,2008,585196.0
+Equatorial Guinea,GNQ,Upper middle income,2008,296309.0
+Kenya,KEN,Lower middle income,2008,16446062.0
+Liberia,LBR,Low income,2008,1584858.0
+Lesotho,LSO,Lower middle income,2008,868629.0
+Madagascar,MDG,Low income,2008,9696253.0
+Mali,MLI,Low income,2008,5235390.0
+Mozambique,MOZ,Low income,2008,10094062.0
+Mauritania,MRT,Lower middle income,2008,906182.0
+Mauritius,MUS,Upper middle income,2008,547340.0
+Malawi,MWI,Low income,2008,5703194.0
+Namibia,NAM,Upper middle income,2008,713537.0
+Niger,NER,Low income,2008,6074652.0
+Nigeria,NGA,Lower middle income,2008,50833525.0
+Rwanda,RWA,Low income,2008,4679274.0
+Sudan,SDN,Low income,2008,9394573.0
+Senegal,SEN,Lower middle income,2008,3318965.0
+Sierra Leone,SLE,Low income,2008,2168469.0
+Somalia,SOM,Low income,2008,2034810.0
+South Sudan,SSD,Low income,2008,3631541.0
+Sao Tome and Principe,STP,Lower middle income,2008,52949.0
+Eswatini,SWZ,Lower middle income,2008,322586.0
+Seychelles,SYC,High income,2008,
+Chad,TCD,Low income,2008,3709120.0
+Togo,TGO,Low income,2008,2031082.0
+Tanzania,TZA,Lower middle income,2008,20161382.0
+Uganda,UGA,Low income,2008,10777707.0
+South Africa,ZAF,Upper middle income,2008,19441243.0
+Zambia,ZMB,Low income,2008,5254476.0
+Zimbabwe,ZWE,Lower middle income,2008,5999036.0
+Angola,AGO,Lower middle income,2009,9211974.0
+Burundi,BDI,Low income,2009,3723694.0
+Benin,BEN,Lower middle income,2009,3598159.0
+Burkina Faso,BFA,Low income,2009,5699835.0
+Botswana,BWA,Upper middle income,2009,787142.0
+Central African Republic,CAF,Low income,2009,1739671.0
+Cote d'Ivoire,CIV,Lower middle income,2009,6764522.0
+Cameroon,CMR,Lower middle income,2009,8742253.0
+Democratic Republic of Congo,COD,Low income,2009,23187587.0
+Republic of Congo,COG,Lower middle income,2009,1640604.0
+Comoros,COM,Lower middle income,2009,169695.0
+Cabo Verde,CPV,Lower middle income,2009,190676.0
+Eritrea,ERI,Low income,2009,1507355.0
+Ethiopia,ETH,Low income,2009,38010277.0
+Gabon,GAB,Upper middle income,2009,477169.0
+Ghana,GHA,Lower middle income,2009,10433208.0
+Guinea,GIN,Low income,2009,3437284.0
+Gambia,GMB,Low income,2009,557939.0
+Guinea-Bissau,GNB,Low income,2009,601762.0
+Equatorial Guinea,GNQ,Upper middle income,2009,310967.0
+Kenya,KEN,Lower middle income,2009,16962552.0
+Liberia,LBR,Low income,2009,1648794.0
+Lesotho,LSO,Lower middle income,2009,869248.0
+Madagascar,MDG,Low income,2009,10015772.0
+Mali,MLI,Low income,2009,5401966.0
+Mozambique,MOZ,Low income,2009,10293739.0
+Mauritania,MRT,Lower middle income,2009,927616.0
+Mauritius,MUS,Upper middle income,2009,554425.0
+Malawi,MWI,Low income,2009,5873988.0
+Namibia,NAM,Upper middle income,2009,734265.0
+Niger,NER,Low income,2009,6298974.0
+Nigeria,NGA,Lower middle income,2009,52173885.0
+Rwanda,RWA,Low income,2009,4807398.0
+Sudan,SDN,Low income,2009,9603856.0
+Senegal,SEN,Lower middle income,2009,3377246.0
+Sierra Leone,SLE,Low income,2009,2192945.0
+Somalia,SOM,Low income,2009,2092137.0
+South Sudan,SSD,Low income,2009,3809843.0
+Sao Tome and Principe,STP,Lower middle income,2009,54478.0
+Eswatini,SWZ,Lower middle income,2009,325618.0
+Seychelles,SYC,High income,2009,
+Chad,TCD,Low income,2009,3814334.0
+Togo,TGO,Low income,2009,2087243.0
+Tanzania,TZA,Lower middle income,2009,20626078.0
+Uganda,UGA,Low income,2009,11162258.0
+South Africa,ZAF,Upper middle income,2009,19114540.0
+Zambia,ZMB,Low income,2009,5352539.0
+Zimbabwe,ZWE,Lower middle income,2009,6052658.0
+Angola,AGO,Lower middle income,2010,9556361.0
+Burundi,BDI,Low income,2010,3842129.0
+Benin,BEN,Lower middle income,2010,3712416.0
+Burkina Faso,BFA,Low income,2010,5813865.0
+Botswana,BWA,Upper middle income,2010,764106.0
+Central African Republic,CAF,Low income,2010,1759855.0
+Cote d'Ivoire,CIV,Lower middle income,2010,6887868.0
+Cameroon,CMR,Lower middle income,2010,8731386.0
+Democratic Republic of Congo,COD,Low income,2010,23631512.0
+Republic of Congo,COG,Lower middle income,2010,1692836.0
+Comoros,COM,Lower middle income,2010,175768.0
+Cabo Verde,CPV,Lower middle income,2010,195560.0
+Eritrea,ERI,Low income,2010,1525360.0
+Ethiopia,ETH,Low income,2010,39350692.0
+Gabon,GAB,Upper middle income,2010,495285.0
+Ghana,GHA,Lower middle income,2010,10697599.0
+Guinea,GIN,Low income,2010,3525211.0
+Gambia,GMB,Low income,2010,578418.0
+Guinea-Bissau,GNB,Low income,2010,618942.0
+Equatorial Guinea,GNQ,Upper middle income,2010,326138.0
+Kenya,KEN,Lower middle income,2010,17521856.0
+Liberia,LBR,Low income,2010,1711168.0
+Lesotho,LSO,Lower middle income,2010,870230.0
+Madagascar,MDG,Low income,2010,10352622.0
+Mali,MLI,Low income,2010,5571406.0
+Mozambique,MOZ,Low income,2010,10500833.0
+Mauritania,MRT,Lower middle income,2010,949616.0
+Mauritius,MUS,Upper middle income,2010,566754.0
+Malawi,MWI,Low income,2010,6057862.0
+Namibia,NAM,Upper middle income,2010,755447.0
+Niger,NER,Low income,2010,6538897.0
+Nigeria,NGA,Lower middle income,2010,53563331.0
+Rwanda,RWA,Low income,2010,4938698.0
+Sudan,SDN,Low income,2010,9827977.0
+Senegal,SEN,Lower middle income,2010,3437243.0
+Sierra Leone,SLE,Low income,2010,2218671.0
+Somalia,SOM,Low income,2010,2153484.0
+South Sudan,SSD,Low income,2010,3978888.0
+Sao Tome and Principe,STP,Lower middle income,2010,55913.0
+Eswatini,SWZ,Lower middle income,2010,328564.0
+Seychelles,SYC,High income,2010,
+Chad,TCD,Low income,2010,3925808.0
+Togo,TGO,Low income,2010,2145451.0
+Tanzania,TZA,Lower middle income,2010,21098392.0
+Uganda,UGA,Low income,2010,11566242.0
+South Africa,ZAF,Upper middle income,2010,18827666.0
+Zambia,ZMB,Low income,2010,5457982.0
+Zimbabwe,ZWE,Lower middle income,2010,6110955.0
+Angola,AGO,Lower middle income,2011,9898462.0
+Burundi,BDI,Low income,2011,3943624.0
+Benin,BEN,Lower middle income,2011,3825604.0
+Burkina Faso,BFA,Low income,2011,5918602.0
+Botswana,BWA,Upper middle income,2011,777636.0
+Central African Republic,CAF,Low income,2011,1763094.0
+Cote d'Ivoire,CIV,Lower middle income,2011,7020913.0
+Cameroon,CMR,Lower middle income,2011,8980552.0
+Democratic Republic of Congo,COD,Low income,2011,24034512.0
+Republic of Congo,COG,Lower middle income,2011,1735808.0
+Comoros,COM,Lower middle income,2011,181875.0
+Cabo Verde,CPV,Lower middle income,2011,199978.0
+Eritrea,ERI,Low income,2011,1530962.0
+Ethiopia,ETH,Low income,2011,40809845.0
+Gabon,GAB,Upper middle income,2011,515371.0
+Ghana,GHA,Lower middle income,2011,10940077.0
+Guinea,GIN,Low income,2011,3613639.0
+Gambia,GMB,Low income,2011,598033.0
+Guinea-Bissau,GNB,Low income,2011,635907.0
+Equatorial Guinea,GNQ,Upper middle income,2011,341631.0
+Kenya,KEN,Lower middle income,2011,18106418.0
+Liberia,LBR,Low income,2011,1768375.0
+Lesotho,LSO,Lower middle income,2011,869501.0
+Madagascar,MDG,Low income,2011,10695361.0
+Mali,MLI,Low income,2011,5723043.0
+Mozambique,MOZ,Low income,2011,10711945.0
+Mauritania,MRT,Lower middle income,2011,971314.0
+Mauritius,MUS,Upper middle income,2011,563792.0
+Malawi,MWI,Low income,2011,6248027.0
+Namibia,NAM,Upper middle income,2011,773747.0
+Niger,NER,Low income,2011,6780796.0
+Nigeria,NGA,Lower middle income,2011,54954440.0
+Rwanda,RWA,Low income,2011,5065686.0
+Sudan,SDN,Low income,2011,10079174.0
+Senegal,SEN,Lower middle income,2011,3494499.0
+Sierra Leone,SLE,Low income,2011,2240075.0
+Somalia,SOM,Low income,2011,2214003.0
+South Sudan,SSD,Low income,2011,4120195.0
+Sao Tome and Principe,STP,Lower middle income,2011,57199.0
+Eswatini,SWZ,Lower middle income,2011,331407.0
+Seychelles,SYC,High income,2011,
+Chad,TCD,Low income,2011,4034855.0
+Togo,TGO,Low income,2011,2204745.0
+Tanzania,TZA,Lower middle income,2011,21585797.0
+Uganda,UGA,Low income,2011,11984747.0
+South Africa,ZAF,Upper middle income,2011,19095444.0
+Zambia,ZMB,Low income,2011,5586739.0
+Zimbabwe,ZWE,Lower middle income,2011,6184085.0
+Angola,AGO,Lower middle income,2012,10252532.0
+Burundi,BDI,Low income,2012,4042457.0
+Benin,BEN,Lower middle income,2012,3942161.0
+Burkina Faso,BFA,Low income,2012,6028928.0
+Botswana,BWA,Upper middle income,2012,788714.0
+Central African Republic,CAF,Low income,2012,1762364.0
+Cote d'Ivoire,CIV,Lower middle income,2012,7159386.0
+Cameroon,CMR,Lower middle income,2012,9238356.0
+Democratic Republic of Congo,COD,Low income,2012,24452870.0
+Republic of Congo,COG,Lower middle income,2012,1777719.0
+Comoros,COM,Lower middle income,2012,188198.0
+Cabo Verde,CPV,Lower middle income,2012,204123.0
+Eritrea,ERI,Low income,2012,1534245.0
+Ethiopia,ETH,Low income,2012,42342365.0
+Gabon,GAB,Upper middle income,2012,536777.0
+Ghana,GHA,Lower middle income,2012,11183023.0
+Guinea,GIN,Low income,2012,3705222.0
+Gambia,GMB,Low income,2012,618648.0
+Guinea-Bissau,GNB,Low income,2012,653753.0
+Equatorial Guinea,GNQ,Upper middle income,2012,357849.0
+Kenya,KEN,Lower middle income,2012,18741301.0
+Liberia,LBR,Low income,2012,1823865.0
+Lesotho,LSO,Lower middle income,2012,869892.0
+Madagascar,MDG,Low income,2012,11056747.0
+Mali,MLI,Low income,2012,5880797.0
+Mozambique,MOZ,Low income,2012,10930022.0
+Mauritania,MRT,Lower middle income,2012,993590.0
+Mauritius,MUS,Upper middle income,2012,571357.0
+Malawi,MWI,Low income,2012,6457457.0
+Namibia,NAM,Upper middle income,2012,793137.0
+Niger,NER,Low income,2012,6875105.0
+Nigeria,NGA,Lower middle income,2012,54004475.0
+Rwanda,RWA,Low income,2012,5200234.0
+Sudan,SDN,Low income,2012,10352787.0
+Senegal,SEN,Lower middle income,2012,3554644.0
+Sierra Leone,SLE,Low income,2012,2262846.0
+Somalia,SOM,Low income,2012,2279336.0
+South Sudan,SSD,Low income,2012,4248742.0
+Sao Tome and Principe,STP,Lower middle income,2012,58373.0
+Eswatini,SWZ,Lower middle income,2012,334565.0
+Seychelles,SYC,High income,2012,
+Chad,TCD,Low income,2012,4151116.0
+Togo,TGO,Low income,2012,2266629.0
+Tanzania,TZA,Lower middle income,2012,22091927.0
+Uganda,UGA,Low income,2012,12426422.0
+South Africa,ZAF,Upper middle income,2012,19550791.0
+Zambia,ZMB,Low income,2012,5722241.0
+Zimbabwe,ZWE,Lower middle income,2012,6322675.0
+Angola,AGO,Lower middle income,2013,10621492.0
+Burundi,BDI,Low income,2013,4140069.0
+Benin,BEN,Lower middle income,2013,4063769.0
+Burkina Faso,BFA,Low income,2013,6142819.0
+Botswana,BWA,Upper middle income,2013,798872.0
+Central African Republic,CAF,Low income,2013,1761090.0
+Cote d'Ivoire,CIV,Lower middle income,2013,7303594.0
+Cameroon,CMR,Lower middle income,2013,9505237.0
+Democratic Republic of Congo,COD,Low income,2013,25264789.0
+Republic of Congo,COG,Lower middle income,2013,1819718.0
+Comoros,COM,Lower middle income,2013,194726.0
+Cabo Verde,CPV,Lower middle income,2013,208080.0
+Eritrea,ERI,Low income,2013,1536446.0
+Ethiopia,ETH,Low income,2013,43937092.0
+Gabon,GAB,Upper middle income,2013,558666.0
+Ghana,GHA,Lower middle income,2013,11426904.0
+Guinea,GIN,Low income,2013,3801846.0
+Gambia,GMB,Low income,2013,638842.0
+Guinea-Bissau,GNB,Low income,2013,672304.0
+Equatorial Guinea,GNQ,Upper middle income,2013,374439.0
+Kenya,KEN,Lower middle income,2013,19416508.0
+Liberia,LBR,Low income,2013,1878950.0
+Lesotho,LSO,Lower middle income,2013,871599.0
+Madagascar,MDG,Low income,2013,11433945.0
+Mali,MLI,Low income,2013,6046370.0
+Mozambique,MOZ,Low income,2013,11158852.0
+Mauritania,MRT,Lower middle income,2013,1025065.0
+Mauritius,MUS,Upper middle income,2013,586129.0
+Malawi,MWI,Low income,2013,6681735.0
+Namibia,NAM,Upper middle income,2013,867835.0
+Niger,NER,Low income,2013,6964138.0
+Nigeria,NGA,Lower middle income,2013,52957798.0
+Rwanda,RWA,Low income,2013,5341639.0
+Sudan,SDN,Low income,2013,10641467.0
+Senegal,SEN,Lower middle income,2013,3617176.0
+Sierra Leone,SLE,Low income,2013,2286429.0
+Somalia,SOM,Low income,2013,2348827.0
+South Sudan,SSD,Low income,2013,4363647.0
+Sao Tome and Principe,STP,Lower middle income,2013,59486.0
+Eswatini,SWZ,Lower middle income,2013,337931.0
+Seychelles,SYC,High income,2013,
+Chad,TCD,Low income,2013,4272988.0
+Togo,TGO,Low income,2013,2331011.0
+Tanzania,TZA,Lower middle income,2013,22617022.0
+Uganda,UGA,Low income,2013,12881275.0
+South Africa,ZAF,Upper middle income,2013,20110076.0
+Zambia,ZMB,Low income,2013,5923418.0
+Zimbabwe,ZWE,Lower middle income,2013,6465320.0
+Angola,AGO,Lower middle income,2014,11004723.0
+Burundi,BDI,Low income,2014,4239621.0
+Benin,BEN,Lower middle income,2014,4189856.0
+Burkina Faso,BFA,Low income,2014,6258435.0
+Botswana,BWA,Upper middle income,2014,810392.0
+Central African Republic,CAF,Low income,2014,1763378.0
+Cote d'Ivoire,CIV,Lower middle income,2014,7454225.0
+Cameroon,CMR,Lower middle income,2014,9783304.0
+Democratic Republic of Congo,COD,Low income,2014,26117301.0
+Republic of Congo,COG,Lower middle income,2014,1863400.0
+Comoros,COM,Lower middle income,2014,201455.0
+Cabo Verde,CPV,Lower middle income,2014,212043.0
+Eritrea,ERI,Low income,2014,1538991.0
+Ethiopia,ETH,Low income,2014,45575209.0
+Gabon,GAB,Upper middle income,2014,580084.0
+Ghana,GHA,Lower middle income,2014,11672257.0
+Guinea,GIN,Low income,2014,3905858.0
+Gambia,GMB,Low income,2014,659684.0
+Guinea-Bissau,GNB,Low income,2014,691379.0
+Equatorial Guinea,GNQ,Upper middle income,2014,391238.0
+Kenya,KEN,Lower middle income,2014,20115070.0
+Liberia,LBR,Low income,2014,1935326.0
+Lesotho,LSO,Lower middle income,2014,881445.0
+Madagascar,MDG,Low income,2014,11821415.0
+Mali,MLI,Low income,2014,6221961.0
+Mozambique,MOZ,Low income,2014,11403911.0
+Mauritania,MRT,Lower middle income,2014,1057555.0
+Mauritius,MUS,Upper middle income,2014,593005.0
+Malawi,MWI,Low income,2014,6906457.0
+Namibia,NAM,Upper middle income,2014,872276.0
+Niger,NER,Low income,2014,7044269.0
+Nigeria,NGA,Lower middle income,2014,54348205.0
+Rwanda,RWA,Low income,2014,5487352.0
+Sudan,SDN,Low income,2014,10942110.0
+Senegal,SEN,Lower middle income,2014,3681859.0
+Sierra Leone,SLE,Low income,2014,2309842.0
+Somalia,SOM,Low income,2014,2421127.0
+South Sudan,SSD,Low income,2014,4464310.0
+Sao Tome and Principe,STP,Lower middle income,2014,60634.0
+Eswatini,SWZ,Lower middle income,2014,341328.0
+Seychelles,SYC,High income,2014,
+Chad,TCD,Low income,2014,4398728.0
+Togo,TGO,Low income,2014,2397717.0
+Tanzania,TZA,Lower middle income,2014,23163684.0
+Uganda,UGA,Low income,2014,13373455.0
+South Africa,ZAF,Upper middle income,2014,20542666.0
+Zambia,ZMB,Low income,2014,6136182.0
+Zimbabwe,ZWE,Lower middle income,2014,6611175.0
+Angola,AGO,Lower middle income,2015,11402381.0
+Burundi,BDI,Low income,2015,4370030.0
+Benin,BEN,Lower middle income,2015,4320200.0
+Burkina Faso,BFA,Low income,2015,6464546.0
+Botswana,BWA,Upper middle income,2015,824731.0
+Central African Republic,CAF,Low income,2015,1772055.0
+Cote d'Ivoire,CIV,Lower middle income,2015,7610929.0
+Cameroon,CMR,Lower middle income,2015,10073542.0
+Democratic Republic of Congo,COD,Low income,2015,27012688.0
+Republic of Congo,COG,Lower middle income,2015,1910047.0
+Comoros,COM,Lower middle income,2015,206665.0
+Cabo Verde,CPV,Lower middle income,2015,216075.0
+Eritrea,ERI,Low income,2015,1543416.0
+Ethiopia,ETH,Low income,2015,47245852.0
+Gabon,GAB,Upper middle income,2015,600426.0
+Ghana,GHA,Lower middle income,2015,11920081.0
+Guinea,GIN,Low income,2015,4018675.0
+Gambia,GMB,Low income,2015,681105.0
+Guinea-Bissau,GNB,Low income,2015,710909.0
+Equatorial Guinea,GNQ,Upper middle income,2015,408279.0
+Kenya,KEN,Lower middle income,2015,20829067.0
+Liberia,LBR,Low income,2015,1994122.0
+Lesotho,LSO,Lower middle income,2015,892175.0
+Madagascar,MDG,Low income,2015,12216024.0
+Mali,MLI,Low income,2015,6404886.0
+Mozambique,MOZ,Low income,2015,11667371.0
+Mauritania,MRT,Lower middle income,2015,1091062.0
+Mauritius,MUS,Upper middle income,2015,601140.0
+Malawi,MWI,Low income,2015,7136103.0
+Namibia,NAM,Upper middle income,2015,885697.0
+Niger,NER,Low income,2015,7331894.0
+Nigeria,NGA,Lower middle income,2015,55815157.0
+Rwanda,RWA,Low income,2015,5644009.0
+Sudan,SDN,Low income,2015,11252734.0
+Senegal,SEN,Lower middle income,2015,3748673.0
+Sierra Leone,SLE,Low income,2015,2369428.0
+Somalia,SOM,Low income,2015,2495610.0
+South Sudan,SSD,Low income,2015,4551856.0
+Sao Tome and Principe,STP,Lower middle income,2015,61874.0
+Eswatini,SWZ,Lower middle income,2015,344733.0
+Seychelles,SYC,High income,2015,
+Chad,TCD,Low income,2015,4527305.0
+Togo,TGO,Low income,2015,2466671.0
+Tanzania,TZA,Lower middle income,2015,23910182.0
+Uganda,UGA,Low income,2015,13908256.0
+South Africa,ZAF,Upper middle income,2015,21379123.0
+Zambia,ZMB,Low income,2015,6360119.0
+Zimbabwe,ZWE,Lower middle income,2015,6709332.0
+Angola,AGO,Lower middle income,2016,11804734.0
+Burundi,BDI,Low income,2016,4508039.0
+Benin,BEN,Lower middle income,2016,4451938.0
+Burkina Faso,BFA,Low income,2016,6674993.0
+Botswana,BWA,Upper middle income,2016,844352.0
+Central African Republic,CAF,Low income,2016,1796334.0
+Cote d'Ivoire,CIV,Lower middle income,2016,7763092.0
+Cameroon,CMR,Lower middle income,2016,10369372.0
+Democratic Republic of Congo,COD,Low income,2016,27913180.0
+Republic of Congo,COG,Lower middle income,2016,1961279.0
+Comoros,COM,Lower middle income,2016,211843.0
+Cabo Verde,CPV,Lower middle income,2016,220104.0
+Eritrea,ERI,Low income,2016,1564588.0
+Ethiopia,ETH,Low income,2016,48872202.0
+Gabon,GAB,Upper middle income,2016,617438.0
+Ghana,GHA,Lower middle income,2016,12217714.0
+Guinea,GIN,Low income,2016,4148772.0
+Gambia,GMB,Low income,2016,702236.0
+Guinea-Bissau,GNB,Low income,2016,730230.0
+Equatorial Guinea,GNQ,Upper middle income,2016,424929.0
+Kenya,KEN,Lower middle income,2016,21570342.0
+Liberia,LBR,Low income,2016,2053809.0
+Lesotho,LSO,Lower middle income,2016,900936.0
+Madagascar,MDG,Low income,2016,12616845.0
+Mali,MLI,Low income,2016,6545071.0
+Mozambique,MOZ,Low income,2016,12047984.0
+Mauritania,MRT,Lower middle income,2016,1123727.0
+Mauritius,MUS,Upper middle income,2016,597302.0
+Malawi,MWI,Low income,2016,7378221.0
+Namibia,NAM,Upper middle income,2016,899851.0
+Niger,NER,Low income,2016,7621537.0
+Nigeria,NGA,Lower middle income,2016,57266041.0
+Rwanda,RWA,Low income,2016,5816132.0
+Sudan,SDN,Low income,2016,11566592.0
+Senegal,SEN,Lower middle income,2016,3859672.0
+Sierra Leone,SLE,Low income,2016,2429835.0
+Somalia,SOM,Low income,2016,2572381.0
+South Sudan,SSD,Low income,2016,4615379.0
+Sao Tome and Principe,STP,Lower middle income,2016,63211.0
+Eswatini,SWZ,Lower middle income,2016,349533.0
+Seychelles,SYC,High income,2016,
+Chad,TCD,Low income,2016,4649302.0
+Togo,TGO,Low income,2016,2536878.0
+Tanzania,TZA,Lower middle income,2016,24708750.0
+Uganda,UGA,Low income,2016,14496926.0
+South Africa,ZAF,Upper middle income,2016,21767744.0
+Zambia,ZMB,Low income,2016,6590051.0
+Zimbabwe,ZWE,Lower middle income,2016,6802164.0
+Angola,AGO,Lower middle income,2017,12223456.0
+Burundi,BDI,Low income,2017,4654229.0
+Benin,BEN,Lower middle income,2017,4588876.0
+Burkina Faso,BFA,Low income,2017,6892699.0
+Botswana,BWA,Upper middle income,2017,867433.0
+Central African Republic,CAF,Low income,2017,1827814.0
+Cote d'Ivoire,CIV,Lower middle income,2017,7922954.0
+Cameroon,CMR,Lower middle income,2017,10678160.0
+Democratic Republic of Congo,COD,Low income,2017,28865228.0
+Republic of Congo,COG,Lower middle income,2017,2015938.0
+Comoros,COM,Lower middle income,2017,217152.0
+Cabo Verde,CPV,Lower middle income,2017,224342.0
+Eritrea,ERI,Low income,2017,1584008.0
+Ethiopia,ETH,Low income,2017,50540486.0
+Gabon,GAB,Upper middle income,2017,633493.0
+Ghana,GHA,Lower middle income,2017,12524927.0
+Guinea,GIN,Low income,2017,4288458.0
+Gambia,GMB,Low income,2017,724125.0
+Guinea-Bissau,GNB,Low income,2017,750149.0
+Equatorial Guinea,GNQ,Upper middle income,2017,442090.0
+Kenya,KEN,Lower middle income,2017,22251990.0
+Liberia,LBR,Low income,2017,2115393.0
+Lesotho,LSO,Lower middle income,2017,910583.0
+Madagascar,MDG,Low income,2017,13024036.0
+Mali,MLI,Low income,2017,6693151.0
+Mozambique,MOZ,Low income,2017,12454016.0
+Mauritania,MRT,Lower middle income,2017,1157889.0
+Mauritius,MUS,Upper middle income,2017,603691.0
+Malawi,MWI,Low income,2017,7622794.0
+Namibia,NAM,Upper middle income,2017,904835.0
+Niger,NER,Low income,2017,7928658.0
+Nigeria,NGA,Lower middle income,2017,58814727.0
+Rwanda,RWA,Low income,2017,5988412.0
+Sudan,SDN,Low income,2017,11890988.0
+Senegal,SEN,Lower middle income,2017,3975776.0
+Sierra Leone,SLE,Low income,2017,2491501.0
+Somalia,SOM,Low income,2017,2651164.0
+South Sudan,SSD,Low income,2017,4663143.0
+Sao Tome and Principe,STP,Lower middle income,2017,64632.0
+Eswatini,SWZ,Lower middle income,2017,354049.0
+Seychelles,SYC,High income,2017,
+Chad,TCD,Low income,2017,4774387.0
+Togo,TGO,Low income,2017,2609095.0
+Tanzania,TZA,Lower middle income,2017,25539231.0
+Uganda,UGA,Low income,2017,15134634.0
+South Africa,ZAF,Upper middle income,2017,22360602.0
+Zambia,ZMB,Low income,2017,6833139.0
+Zimbabwe,ZWE,Lower middle income,2017,6909356.0
+Angola,AGO,Lower middle income,2018,12659938.0
+Burundi,BDI,Low income,2018,4808244.0
+Benin,BEN,Lower middle income,2018,4730774.0
+Burkina Faso,BFA,Low income,2018,7118594.0
+Botswana,BWA,Upper middle income,2018,892954.0
+Central African Republic,CAF,Low income,2018,1865485.0
+Cote d'Ivoire,CIV,Lower middle income,2018,8151479.0
+Cameroon,CMR,Lower middle income,2018,10999787.0
+Democratic Republic of Congo,COD,Low income,2018,29864531.0
+Republic of Congo,COG,Lower middle income,2018,2073695.0
+Comoros,COM,Lower middle income,2018,222586.0
+Cabo Verde,CPV,Lower middle income,2018,214658.0
+Eritrea,ERI,Low income,2018,1605095.0
+Ethiopia,ETH,Low income,2018,52237702.0
+Gabon,GAB,Upper middle income,2018,648907.0
+Ghana,GHA,Lower middle income,2018,12839627.0
+Guinea,GIN,Low income,2018,4435743.0
+Gambia,GMB,Low income,2018,746817.0
+Guinea-Bissau,GNB,Low income,2018,770686.0
+Equatorial Guinea,GNQ,Upper middle income,2018,459385.0
+Kenya,KEN,Lower middle income,2018,22946017.0
+Liberia,LBR,Low income,2018,2178949.0
+Lesotho,LSO,Lower middle income,2018,920631.0
+Madagascar,MDG,Low income,2018,13438780.0
+Mali,MLI,Low income,2018,6916901.0
+Mozambique,MOZ,Low income,2018,12882281.0
+Mauritania,MRT,Lower middle income,2018,1192786.0
+Mauritius,MUS,Upper middle income,2018,600941.0
+Malawi,MWI,Low income,2018,7874053.0
+Namibia,NAM,Upper middle income,2018,909476.0
+Niger,NER,Low income,2018,8252570.0
+Nigeria,NGA,Lower middle income,2018,60448885.0
+Rwanda,RWA,Low income,2018,6163580.0
+Sudan,SDN,Low income,2018,12225225.0
+Senegal,SEN,Lower middle income,2018,4096445.0
+Sierra Leone,SLE,Low income,2018,2554768.0
+Somalia,SOM,Low income,2018,2732663.0
+South Sudan,SSD,Low income,2018,4706766.0
+Sao Tome and Principe,STP,Lower middle income,2018,66132.0
+Eswatini,SWZ,Lower middle income,2018,358533.0
+Seychelles,SYC,High income,2018,
+Chad,TCD,Low income,2018,4902823.0
+Togo,TGO,Low income,2018,2683601.0
+Tanzania,TZA,Lower middle income,2018,26405597.0
+Uganda,UGA,Low income,2018,15803182.0
+South Africa,ZAF,Upper middle income,2018,22608291.0
+Zambia,ZMB,Low income,2018,7087259.0
+Zimbabwe,ZWE,Lower middle income,2018,7028775.0
+Angola,AGO,Lower middle income,2019,13116712.0
+Burundi,BDI,Low income,2019,4969385.0
+Benin,BEN,Lower middle income,2019,4877483.0
+Burkina Faso,BFA,Low income,2019,7354219.0
+Botswana,BWA,Upper middle income,2019,919329.0
+Central African Republic,CAF,Low income,2019,1907420.0
+Cote d'Ivoire,CIV,Lower middle income,2019,8385280.0
+Cameroon,CMR,Lower middle income,2019,11333454.0
+Democratic Republic of Congo,COD,Low income,2019,30907455.0
+Republic of Congo,COG,Lower middle income,2019,2134000.0
+Comoros,COM,Lower middle income,2019,228115.0
+Cabo Verde,CPV,Lower middle income,2019,225349.0
+Eritrea,ERI,Low income,2019,1632029.0
+Ethiopia,ETH,Low income,2019,53950175.0
+Gabon,GAB,Upper middle income,2019,664205.0
+Ghana,GHA,Lower middle income,2019,13159208.0
+Guinea,GIN,Low income,2019,4588010.0
+Gambia,GMB,Low income,2019,770377.0
+Guinea-Bissau,GNB,Low income,2019,791905.0
+Equatorial Guinea,GNQ,Upper middle income,2019,476710.0
+Kenya,KEN,Lower middle income,2019,23658574.0
+Liberia,LBR,Low income,2019,2244310.0
+Lesotho,LSO,Lower middle income,2019,930607.0
+Madagascar,MDG,Low income,2019,13864048.0
+Mali,MLI,Low income,2019,7153721.0
+Mozambique,MOZ,Low income,2019,13327075.0
+Mauritania,MRT,Lower middle income,2019,1228417.0
+Mauritius,MUS,Upper middle income,2019,609711.0
+Malawi,MWI,Low income,2019,8137784.0
+Namibia,NAM,Upper middle income,2019,926695.0
+Niger,NER,Low income,2019,8592795.0
+Nigeria,NGA,Lower middle income,2019,62151626.0
+Rwanda,RWA,Low income,2019,6346049.0
+Sudan,SDN,Low income,2019,12569287.0
+Senegal,SEN,Lower middle income,2019,4221102.0
+Sierra Leone,SLE,Low income,2019,2620130.0
+Somalia,SOM,Low income,2019,2817875.0
+South Sudan,SSD,Low income,2019,4760595.0
+Sao Tome and Principe,STP,Lower middle income,2019,67694.0
+Eswatini,SWZ,Lower middle income,2019,363334.0
+Seychelles,SYC,High income,2019,
+Chad,TCD,Low income,2019,5074502.0
+Togo,TGO,Low income,2019,2760567.0
+Tanzania,TZA,Lower middle income,2019,27312036.0
+Uganda,UGA,Low income,2019,16480192.0
+South Africa,ZAF,Upper middle income,2019,22989511.0
+Zambia,ZMB,Low income,2019,7348517.0
+Zimbabwe,ZWE,Lower middle income,2019,7156060.0
+Angola,AGO,Lower middle income,2020,13415460.0
+Burundi,BDI,Low income,2020,5089758.0
+Benin,BEN,Lower middle income,2020,4985420.0
+Burkina Faso,BFA,Low income,2020,7534642.0
+Botswana,BWA,Upper middle income,2020,950933.0
+Central African Republic,CAF,Low income,2020,1933193.0
+Cote d'Ivoire,CIV,Lower middle income,2020,8549394.0
+Cameroon,CMR,Lower middle income,2020,11575786.0
+Democratic Republic of Congo,COD,Low income,2020,31465473.0
+Republic of Congo,COG,Lower middle income,2020,2129699.0
+Comoros,COM,Lower middle income,2020,228922.0
+Cabo Verde,CPV,Lower middle income,2020,211873.0
+Eritrea,ERI,Low income,2020,1569813.0
+Ethiopia,ETH,Low income,2020,53546648.0
+Gabon,GAB,Upper middle income,2020,673089.0
+Ghana,GHA,Lower middle income,2020,13364617.0
+Guinea,GIN,Low income,2020,4614181.0
+Gambia,GMB,Low income,2020,768986.0
+Guinea-Bissau,GNB,Low income,2020,806753.0
+Equatorial Guinea,GNQ,Upper middle income,2020,483616.0
+Kenya,KEN,Lower middle income,2020,24134840.0
+Liberia,LBR,Low income,2020,2230924.0
+Lesotho,LSO,Lower middle income,2020,917562.0
+Madagascar,MDG,Low income,2020,13955337.0
+Mali,MLI,Low income,2020,7340643.0
+Mozambique,MOZ,Low income,2020,13661543.0
+Mauritania,MRT,Lower middle income,2020,1254313.0
+Mauritius,MUS,Upper middle income,2020,594823.0
+Malawi,MWI,Low income,2020,8185630.0
+Namibia,NAM,Upper middle income,2020,930694.0
+Niger,NER,Low income,2020,8868172.0
+Nigeria,NGA,Lower middle income,2020,62259271.0
+Rwanda,RWA,Low income,2020,6440635.0
+Sudan,SDN,Low income,2020,12576579.0
+Senegal,SEN,Lower middle income,2020,4258114.0
+Sierra Leone,SLE,Low income,2020,2666630.0
+Somalia,SOM,Low income,2020,2884818.0
+South Sudan,SSD,Low income,2020,4674628.0
+Sao Tome and Principe,STP,Lower middle income,2020,67794.0
+Eswatini,SWZ,Lower middle income,2020,355218.0
+Seychelles,SYC,High income,2020,
+Chad,TCD,Low income,2020,5085739.0
+Togo,TGO,Low income,2020,2817960.0
+Tanzania,TZA,Lower middle income,2020,28002234.0
+Uganda,UGA,Low income,2020,16497309.0
+South Africa,ZAF,Upper middle income,2020,21345809.0
+Zambia,ZMB,Low income,2020,7551931.0
+Zimbabwe,ZWE,Lower middle income,2020,7204228.0
+Angola,AGO,Lower middle income,2021,13971332.0
+Burundi,BDI,Low income,2021,5266036.0
+Benin,BEN,Lower middle income,2021,5147879.0
+Burkina Faso,BFA,Low income,2021,7797030.0
+Botswana,BWA,Upper middle income,2021,971259.0
+Central African Republic,CAF,Low income,2021,1996685.0
+Cote d'Ivoire,CIV,Lower middle income,2021,8805622.0
+Cameroon,CMR,Lower middle income,2021,11954346.0
+Democratic Republic of Congo,COD,Low income,2021,32706320.0
+Republic of Congo,COG,Lower middle income,2021,2215521.0
+Comoros,COM,Lower middle income,2021,235977.0
+Cabo Verde,CPV,Lower middle income,2021,220755.0
+Eritrea,ERI,Low income,2021,1641270.0
+Ethiopia,ETH,Low income,2021,55899088.0
+Gabon,GAB,Upper middle income,2021,688983.0
+Ghana,GHA,Lower middle income,2021,13701717.0
+Guinea,GIN,Low income,2021,4803360.0
+Gambia,GMB,Low income,2021,801987.0
+Guinea-Bissau,GNB,Low income,2021,832353.0
+Equatorial Guinea,GNQ,Upper middle income,2021,503147.0
+Kenya,KEN,Lower middle income,2021,24973363.0
+Liberia,LBR,Low income,2021,2321512.0
+Lesotho,LSO,Lower middle income,2021,931190.0
+Madagascar,MDG,Low income,2021,14462246.0
+Mali,MLI,Low income,2021,7616657.0
+Mozambique,MOZ,Low income,2021,14146886.0
+Mauritania,MRT,Lower middle income,2021,1292530.0
+Mauritius,MUS,Upper middle income,2021,599558.0
+Malawi,MWI,Low income,2021,8543496.0
+Namibia,NAM,Upper middle income,2021,952994.0
+Niger,NER,Low income,2021,9248423.0
+Nigeria,NGA,Lower middle income,2021,64479317.0
+Rwanda,RWA,Low income,2021,6643949.0
+Sudan,SDN,Low income,2021,13059628.0
+Senegal,SEN,Lower middle income,2021,4419926.0
+Sierra Leone,SLE,Low income,2021,2735537.0
+Somalia,SOM,Low income,2021,2986271.0
+South Sudan,SSD,Low income,2021,4828859.0
+Sao Tome and Principe,STP,Lower middle income,2021,70046.0
+Eswatini,SWZ,Lower middle income,2021,365895.0
+Seychelles,SYC,High income,2021,
+Chad,TCD,Low income,2021,5306324.0
+Togo,TGO,Low income,2021,2905587.0
+Tanzania,TZA,Lower middle income,2021,29043312.0
+Uganda,UGA,Low income,2021,17351430.0
+South Africa,ZAF,Upper middle income,2021,22668184.0
+Zambia,ZMB,Low income,2021,7840157.0
+Zimbabwe,ZWE,Lower middle income,2021,7415518.0
