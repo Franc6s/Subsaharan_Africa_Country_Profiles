@@ -46,14 +46,27 @@ ___
 * Labor force trend 1960 - 2021
 * Labor force vs Literacy Rate (Correlation)
 * Labor force vs GDP (Correlation)
+* Labor force female vs GDP (Correlation)
 
 **Education**:
 * Literacy Rate vs GDP
 * Literacy Rate vs Life Expectancy (Correlation)
+* Literacy Rate male
+* Literacy Rate Female
 
-**Population Analysis**:
+**Population Analysis (Total, Yearly)**:
 * % Female population  
 * % Male population 
 * % International Migrant Stock
 * % Urban population  
 * % Rural population   
+
+**Trade**
+* Trade Balance: Import vs Export
+* Import vs GDP (Correlation)
+* Export vs GDP (Correlation)
+
+**Health**
+* Life Expectancy vs GDP (Correlation)
+* Life Expectancy Female
+* Life Expectancy Male
